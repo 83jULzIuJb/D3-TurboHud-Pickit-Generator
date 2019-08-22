@@ -1,0 +1,930 @@
+{
+  "1": [
+    "Strength", 
+    "STR+1"
+  ], 
+  "2": [
+    "Dexterity", 
+    "DEX+1"
+  ], 
+  "3": [
+    "Intelligence", 
+    "INT+1"
+  ], 
+  "4": [
+    "Vitality", 
+    "VITA+1"
+  ], 
+  "5": [
+    "Socket", 
+    "SOCK+1"
+  ], 
+  "6": [
+    "Damage", 
+    "DMG_PBONUS+1"
+  ], 
+  "7": [
+    "Minimum Damage", 
+    "DMG_LO+1, OFFH_DMG_LO+1"
+  ], 
+  "8": [
+    "Maximum Damage", 
+    "DMG_HI+1, OFFH_DMG_ADD+1"
+  ], 
+  "9": [
+    "Minimum Elemental Damage", 
+    "DMG_LO+1, OFFH_DMG_LO+1"
+  ], 
+  "10": [
+    "Maximum Elemental Damage", 
+    "DMG_HI+1, OFFH_DMG_ADD+1"
+  ], 
+  "11": [
+    "Max Elemental Damage", 
+    "DMG_HI+1, OFFH_DMG_ADD+1"
+  ], 
+  "12": [
+    "Critical Hit Chance", 
+    "CRIT+1"
+  ], 
+  "13": [
+    "Critical Hit Damage", 
+    "CRITDMG+1"
+  ], 
+  "14": [
+    "Attack Speed", 
+    "AS_EXTR+1, IAS+1"
+  ], 
+  "15": [
+    "not_imp", 
+    "AS_WEAP+1"
+  ], 
+  "16": [
+    "Damage against Elites", 
+    "ELITEDAM+1"
+  ], 
+  "17": [
+    "Area Damage", 
+    "AREADMG+1"
+  ], 
+  "18": [
+    "Thorns", 
+    "THORNS+1"
+  ], 
+  "19": [
+    "not_imp", 
+    "SDMG_ANY+1"
+  ], 
+  "20": [
+    "Physical Skills Damage%", 
+    "SDMG_PH+1"
+  ], 
+  "21": [
+    "Fire Skills Damage", 
+    "SDMG_F+1"
+  ], 
+  "22": [
+    "Cold Skills Damage", 
+    "SDMG_C+1"
+  ], 
+  "23": [
+    "Lightning Skills Damage", 
+    "SDMG_L+1"
+  ], 
+  "24": [
+    "Poison Skills Damage", 
+    "SDMG_P+1"
+  ], 
+  "25": [
+    "Arcane Skill Damage", 
+    "SDMG_A+1"
+  ], 
+  "26": [
+    "Holy Skills Damage", 
+    "SDMG_H+1"
+  ], 
+  "27": [
+    "Chance to Inflict Bleed", 
+    "not_imp"
+  ], 
+  "28": [
+    "Chance to Blind", 
+    "not_imp"
+  ], 
+  "29": [
+    "Chance to Chill", 
+    "not_imp"
+  ], 
+  "30": [
+    "Chance to Fear", 
+    "not_imp"
+  ], 
+  "31": [
+    "Chance to Freeze", 
+    "not_imp"
+  ], 
+  "32": [
+    "Chance to Immobolize", 
+    "not_imp"
+  ], 
+  "33": [
+    "Chance to Knockback", 
+    "not_imp"
+  ], 
+  "34": [
+    "Chance to Slow", 
+    "not_imp"
+  ], 
+  "35": [
+    "Chance to Stun", 
+    "not_imp"
+  ], 
+  "36": [
+    "Life", 
+    "LIFE+1"
+  ], 
+  "37": [
+    "Life on Hit", 
+    "LOH+1"
+  ], 
+  "38": [
+    "Life per Second", 
+    "HPREG+1"
+  ], 
+  "39": [
+    "not_imp", 
+    "LOK+1"
+  ], 
+  "40": [
+    "not_imp", 
+    "LSTEAL+1"
+  ], 
+  "41": [
+    "Life per Fury Spent", 
+    "not_imp"
+  ], 
+  "42": [
+    "Extra HP from Globes", 
+    "HPGLOBE+1"
+  ], 
+  "43": [
+    "Bonus Armor", 
+    "E_ARMOR+1"
+  ], 
+  "44": [
+    "Block Chance", 
+    "E_BLOCK+1"
+  ], 
+  "45": [
+    "Resistance to All", 
+    "ALLRES+1"
+  ], 
+  "46": [
+    "not_imp", 
+    "ANYRES+1"
+  ], 
+  "47": [
+    "Physical Resistance", 
+    "PH_RES+1"
+  ], 
+  "48": [
+    "Fire Resistance", 
+    "F_RES+1"
+  ], 
+  "49": [
+    "Cold Resistance", 
+    "C_RES+1"
+  ], 
+  "50": [
+    "Lightning Resistance", 
+    "L_RES+1"
+  ], 
+  "51": [
+    "Poison Resistance", 
+    "P_RES+1"
+  ], 
+  "52": [
+    "Arcane Resist", 
+    "A_RES+1"
+  ], 
+  "53": [
+    "Reduced Damage from Melee", 
+    "not_imp"
+  ], 
+  "54": [
+    "Reduced Damage from Ranged", 
+    "not_imp"
+  ], 
+  "55": [
+    "Reduced Damage from Elites", 
+    "ELITEDAMRED+1"
+  ], 
+  "56": [
+    "Reduced Damage from Cold", 
+    "not_imp"
+  ], 
+  "57": [
+    "Crowd Control Reduction", 
+    "CCRED+1"
+  ], 
+  "58": [
+    "Reduced Resource Cost", 
+    "RESCOSTRED+1"
+  ], 
+  "59": [
+    "Movement Speed", 
+    "MOVE+1"
+  ], 
+  "60": [
+    "Skill Cooldown Reduction", 
+    "CDRED+1"
+  ], 
+  "61": [
+    "Pickup Radius", 
+    "PICKUP+1"
+  ], 
+  "62": [
+    "Arcane Power on Crit !", 
+    "APOC+1"
+  ], 
+  "63": [
+    "not_imp", 
+    "MAX_MANA+1"
+  ], 
+  "64": [
+    "not_imp", 
+    "MAX_AP+1"
+  ], 
+  "65": [
+    "Max Fury", 
+    "MAX_FURY+1"
+  ], 
+  "66": [
+    "not_imp", 
+    "MAX_SPIRIT+1"
+  ], 
+  "67": [
+    "not_imp", 
+    "MAX_DISC+1"
+  ], 
+  "68": [
+    "not_imp", 
+    "MAX_WRATH+1"
+  ], 
+  "69": [
+    "not_imp", 
+    "REG_MANA+1"
+  ], 
+  "70": [
+    "not_imp", 
+    "REG_SPIRIT+1"
+  ], 
+  "71": [
+    "not_imp", 
+    "REG_HATRED+1"
+  ], 
+  "72": [
+    "not_imp", 
+    "REG_WRATH+1"
+  ], 
+  "73": [
+    "Reduced Level Requirement", 
+    "LVLREQRED+1"
+  ], 
+  "74": [
+    "Bonus Experience %", 
+    "not_imp"
+  ], 
+  "75": [
+    "Bonus Experience", 
+    "EXPBONUS+1"
+  ], 
+  "76": [
+    "Gold Find", 
+    "GF+1"
+  ], 
+  "77": [
+    "Magic Find", 
+    "MF+1"
+  ], 
+  "78": [
+    "Skill: Whirlwind", 
+    "SKILLDMG+1"
+  ], 
+  "79": [
+    "Skill: Bash", 
+    "SKILLDMG+1"
+  ], 
+  "80": [
+    "Skill: Hammer of the Ancients", 
+    "SKILLDMG+1"
+  ], 
+  "81": [
+    "Skill: Cleave", 
+    "SKILLDMG+1"
+  ], 
+  "82": [
+    "Skill: Ground Stomp", 
+    "SKILLDMG+1"
+  ], 
+  "83": [
+    "Skill: Rend", 
+    "SKILLDMG+1"
+  ], 
+  "84": [
+    "Skill: Leap", 
+    "SKILLDMG+1"
+  ], 
+  "85": [
+    "Skill: Overpower", 
+    "SKILLDMG+1"
+  ], 
+  "86": [
+    "Skill: Frenzy", 
+    "SKILLDMG+1"
+  ], 
+  "87": [
+    "Skill: Seismic Slam", 
+    "SKILLDMG+1"
+  ], 
+  "88": [
+    "Skill: Revenge", 
+    "SKILLDMG+1"
+  ], 
+  "89": [
+    "Skill: Threatening Shout", 
+    "SKILLDMG+1"
+  ], 
+  "90": [
+    "Skill: Sprint", 
+    "SKILLDMG+1"
+  ], 
+  "91": [
+    "Skill: Weapon Throw", 
+    "SKILLDMG+1"
+  ], 
+  "92": [
+    "Skill: Earthquake", 
+    "SKILLDMG+1"
+  ], 
+  "93": [
+    "Skill: Furious Charge", 
+    "SKILLDMG+1"
+  ], 
+  "94": [
+    "Skill: Ignore Pain", 
+    "SKILLDMG+1"
+  ], 
+  "95": [
+    "Skill: Battle Rage", 
+    "SKILLDMG+1"
+  ], 
+  "96": [
+    "Skill: Call of the Ancients", 
+    "SKILLDMG+1"
+  ], 
+  "97": [
+    "Skill: Ancient Spear", 
+    "SKILLDMG+1"
+  ], 
+  "98": [
+    "Skill: War Cry", 
+    "SKILLDMG+1"
+  ], 
+  "99": [
+    "Skill: Wrath of the Berserker", 
+    "SKILLDMG+1"
+  ], 
+  "100": [
+    "Skill: Avalanche", 
+    "SKILLDMG+1"
+  ], 
+  "101": [
+    "Skill: Punish", 
+    "SKILLDMG+1"
+  ], 
+  "102": [
+    "Skill: Shield Bash", 
+    "SKILLDMG+1"
+  ], 
+  "103": [
+    "Skill: Slash", 
+    "SKILLDMG+1"
+  ], 
+  "104": [
+    "Skill: Shield Glare", 
+    "SKILLDMG+1"
+  ], 
+  "105": [
+    "Skill: Sweep Attack", 
+    "SKILLDMG+1"
+  ], 
+  "106": [
+    "Skill: Iron Skin", 
+    "SKILLDMG+1"
+  ], 
+  "107": [
+    "Skill: Provoke", 
+    "SKILLDMG+1"
+  ], 
+  "108": [
+    "Skill: Smite", 
+    "SKILLDMG+1"
+  ], 
+  "109": [
+    "Skill: Blessed Hammer", 
+    "SKILLDMG+1"
+  ], 
+  "110": [
+    "Skill: Justice", 
+    "SKILLDMG+1"
+  ], 
+  "111": [
+    "Skill: Steed Charge", 
+    "SKILLDMG+1"
+  ], 
+  "112": [
+    "Skill: Laws of Valor", 
+    "SKILLDMG+1"
+  ], 
+  "113": [
+    "Skill: Consecration", 
+    "SKILLDMG+1"
+  ], 
+  "114": [
+    "Skill: Laws of Justice", 
+    "SKILLDMG+1"
+  ], 
+  "115": [
+    "Skill: Falling Sword", 
+    "SKILLDMG+1"
+  ], 
+  "116": [
+    "Skill: Blessed Shield", 
+    "SKILLDMG+1"
+  ], 
+  "117": [
+    "Skill: Condemn", 
+    "SKILLDMG+1"
+  ], 
+  "118": [
+    "Skill: Judgment", 
+    "SKILLDMG+1"
+  ], 
+  "119": [
+    "Skill: Laws of Hope", 
+    "SKILLDMG+1"
+  ], 
+  "120": [
+    "Skill: Akarat's Champion", 
+    "SKILLDMG+1"
+  ], 
+  "121": [
+    "Skill: Fist of the Heavens", 
+    "SKILLDMG+1"
+  ], 
+  "122": [
+    "Skill: Phalanx", 
+    "SKILLDMG+1"
+  ], 
+  "123": [
+    "Skill: Heaven's Fury", 
+    "SKILLDMG+1"
+  ], 
+  "124": [
+    "Skill: Bombardment", 
+    "SKILLDMG+1"
+  ], 
+  "125": [
+    "Skill: Hungering Arrow", 
+    "SKILLDMG+1"
+  ], 
+  "126": [
+    "Skill: Impale", 
+    "SKILLDMG+1"
+  ], 
+  "127": [
+    "Skill: Entangling Shot", 
+    "SKILLDMG+1"
+  ], 
+  "128": [
+    "Skill: Caltrops", 
+    "SKILLDMG+1"
+  ], 
+  "129": [
+    "Skill: Rapid Fire", 
+    "SKILLDMG+1"
+  ], 
+  "130": [
+    "Skill: Smoke Screen", 
+    "SKILLDMG+1"
+  ], 
+  "131": [
+    "Skill: Vault", 
+    "SKILLDMG+1"
+  ], 
+  "132": [
+    "Skill: Bolas", 
+    "SKILLDMG+1"
+  ], 
+  "133": [
+    "Skill: Chakram", 
+    "SKILLDMG+1"
+  ], 
+  "134": [
+    "Skill: Preparation", 
+    "SKILLDMG+1"
+  ], 
+  "135": [
+    "Skill: Fan of Knives", 
+    "SKILLDMG+1"
+  ], 
+  "136": [
+    "Skill: Evasive Fire", 
+    "SKILLDMG+1"
+  ], 
+  "137": [
+    "Skill: Grenade", 
+    "SKILLDMG+1"
+  ], 
+  "138": [
+    "Skill: Shadow Power", 
+    "SKILLDMG+1"
+  ], 
+  "139": [
+    "Skill: Spike Trap", 
+    "SKILLDMG+1"
+  ], 
+  "140": [
+    "Skill: Companion", 
+    "SKILLDMG+1"
+  ], 
+  "141": [
+    "Skill: Strafe", 
+    "SKILLDMG+1"
+  ], 
+  "142": [
+    "Skill: Elemental Arrow", 
+    "SKILLDMG+1"
+  ], 
+  "143": [
+    "Skill: Marked for Death", 
+    "SKILLDMG+1"
+  ], 
+  "144": [
+    "Skill: Multishot", 
+    "SKILLDMG+1"
+  ], 
+  "145": [
+    "Skill: Sentry", 
+    "SKILLDMG+1"
+  ], 
+  "146": [
+    "Skill: Cluster Arrow", 
+    "SKILLDMG+1"
+  ], 
+  "147": [
+    "Skill: Rain of Vengeance", 
+    "SKILLDMG+1"
+  ], 
+  "148": [
+    "Skill: Vengeance", 
+    "SKILLDMG+1"
+  ], 
+  "149": [
+    "Skill: Fists of Thunder", 
+    "SKILLDMG+1"
+  ], 
+  "150": [
+    "Skill: Lashing Tail Kick", 
+    "SKILLDMG+1"
+  ], 
+  "151": [
+    "Skill: Deadly Reach", 
+    "SKILLDMG+1"
+  ], 
+  "152": [
+    "Skill: Blinding Flash", 
+    "SKILLDMG+1"
+  ], 
+  "153": [
+    "Skill: Tempest Rush", 
+    "SKILLDMG+1"
+  ], 
+  "154": [
+    "Skill: Breath of Heaven", 
+    "SKILLDMG+1"
+  ], 
+  "155": [
+    "Skill: Dashing Strike", 
+    "SKILLDMG+1"
+  ], 
+  "156": [
+    "Skill: Crippling Wave", 
+    "SKILLDMG+1"
+  ], 
+  "157": [
+    "Skill: Wave of Light", 
+    "SKILLDMG+1"
+  ], 
+  "158": [
+    "Skill: Exploding Palm", 
+    "SKILLDMG+1"
+  ], 
+  "159": [
+    "Skill: Cyclone Strike", 
+    "SKILLDMG+1"
+  ], 
+  "160": [
+    "Skill: Way of the Hundred Fists", 
+    "SKILLDMG+1"
+  ], 
+  "161": [
+    "Skill: Serenity", 
+    "SKILLDMG+1"
+  ], 
+  "162": [
+    "Skill: Seven-Sided Strike", 
+    "SKILLDMG+1"
+  ], 
+  "163": [
+    "Skill: Mantra of Salvation", 
+    "SKILLDMG+1"
+  ], 
+  "164": [
+    "Skill: Sweeping Wind", 
+    "SKILLDMG+1"
+  ], 
+  "165": [
+    "Skill: Mantra of Retribution", 
+    "SKILLDMG+1"
+  ], 
+  "166": [
+    "Skill: Inner Sanctuary", 
+    "SKILLDMG+1"
+  ], 
+  "167": [
+    "Skill: Mystic Ally", 
+    "SKILLDMG+1"
+  ], 
+  "168": [
+    "Skill: Mantra of Healing", 
+    "SKILLDMG+1"
+  ], 
+  "169": [
+    "Skill: Mantra of Conviction", 
+    "SKILLDMG+1"
+  ], 
+  "170": [
+    "Skill: Epiphany", 
+    "SKILLDMG+1"
+  ], 
+  "171": [
+    "Skill: Poison Dart", 
+    "SKILLDMG+1"
+  ], 
+  "172": [
+    "Skill: Grasp of the Dead", 
+    "SKILLDMG+1"
+  ], 
+  "173": [
+    "Skill: Corpse Spiders", 
+    "SKILLDMG+1"
+  ], 
+  "174": [
+    "Skill: Summon Zombie Dogs", 
+    "SKILLDMG+1"
+  ], 
+  "175": [
+    "Skill: Firebats", 
+    "SKILLDMG+1"
+  ], 
+  "176": [
+    "Skill: Horrify", 
+    "SKILLDMG+1"
+  ], 
+  "177": [
+    "Skill: Soul Harvest", 
+    "SKILLDMG+1"
+  ], 
+  "178": [
+    "Skill: Plague of Toads", 
+    "SKILLDMG+1"
+  ], 
+  "179": [
+    "Skill: Haunt", 
+    "SKILLDMG+1"
+  ], 
+  "180": [
+    "Skill: Sacrifice", 
+    "SKILLDMG+1"
+  ], 
+  "181": [
+    "Skill: Zombie Charger", 
+    "SKILLDMG+1"
+  ], 
+  "182": [
+    "Skill: Spirit Walk", 
+    "SKILLDMG+1"
+  ], 
+  "183": [
+    "Skill: Spirit Barrage", 
+    "SKILLDMG+1"
+  ], 
+  "184": [
+    "Skill: Gargantuam", 
+    "SKILLDMG+1"
+  ], 
+  "185": [
+    "Skill: Locust Swarm", 
+    "SKILLDMG+1"
+  ], 
+  "186": [
+    "Skill: Firebomb", 
+    "SKILLDMG+1"
+  ], 
+  "187": [
+    "Skill: Hex", 
+    "SKILLDMG+1"
+  ], 
+  "188": [
+    "Skill: Acid Cloud", 
+    "SKILLDMG+1"
+  ], 
+  "189": [
+    "Skill: Mass Confusion", 
+    "SKILLDMG+1"
+  ], 
+  "190": [
+    "Skill: Big Bag Voodoo", 
+    "SKILLDMG+1"
+  ], 
+  "191": [
+    "Skill: Wall of Death", 
+    "SKILLDMG+1"
+  ], 
+  "192": [
+    "Skill: Fetish Army", 
+    "SKILLDMG+1"
+  ], 
+  "193": [
+    "Skill: Piranhas", 
+    "SKILLDMG+1"
+  ], 
+  "194": [
+    "Skill: Magic Missile", 
+    "SKILLDMG+1"
+  ], 
+  "195": [
+    "Skill: Ray of Frost", 
+    "SKILLDMG+1"
+  ], 
+  "196": [
+    "Skill: Shock Pulse", 
+    "SKILLDMG+1"
+  ], 
+  "197": [
+    "Skill: Frost Nova", 
+    "SKILLDMG+1"
+  ], 
+  "198": [
+    "Skill: Arcane Orb", 
+    "SKILLDMG+1"
+  ], 
+  "199": [
+    "Skill: Diamond Skin", 
+    "SKILLDMG+1"
+  ], 
+  "200": [
+    "Skill: Wave of Force", 
+    "SKILLDMG+1"
+  ], 
+  "201": [
+    "Skill: Spectral Blade", 
+    "SKILLDMG+1"
+  ], 
+  "202": [
+    "Skill: Arcane Torrent", 
+    "SKILLDMG+1"
+  ], 
+  "203": [
+    "Skill: Energy Twister", 
+    "SKILLDMG+1"
+  ], 
+  "204": [
+    "Skill: Ice Armor", 
+    "SKILLDMG+1"
+  ], 
+  "205": [
+    "Skill: Electrocute", 
+    "SKILLDMG+1"
+  ], 
+  "206": [
+    "Skill: Slow Time", 
+    "SKILLDMG+1"
+  ], 
+  "207": [
+    "Skill: Storm Armor", 
+    "SKILLDMG+1"
+  ], 
+  "208": [
+    "Skill: Explosive Blast", 
+    "SKILLDMG+1"
+  ], 
+  "209": [
+    "Skill: Magic Weapon", 
+    "SKILLDMG+1"
+  ], 
+  "210": [
+    "Skill: Hydra", 
+    "SKILLDMG+1"
+  ], 
+  "211": [
+    "Skill: Disintegrate", 
+    "SKILLDMG+1"
+  ], 
+  "212": [
+    "Skill: Familiar", 
+    "SKILLDMG+1"
+  ], 
+  "213": [
+    "Skill: Teleport", 
+    "SKILLDMG+1"
+  ], 
+  "214": [
+    "Skill: Mirror Image", 
+    "SKILLDMG+1"
+  ], 
+  "215": [
+    "Skill: Meteor", 
+    "SKILLDMG+1"
+  ], 
+  "216": [
+    "Skill: Blizzard", 
+    "SKILLDMG+1"
+  ], 
+  "217": [
+    "Skill: Energy Armor", 
+    "SKILLDMG+1"
+  ], 
+  "218": [
+    "Skill: Archon", 
+    "SKILLDMG+1"
+  ], 
+  "219": [
+    "Skill: Black Hole", 
+    "SKILLDMG+1"
+  ],
+  "220": [
+    "Skill: Bone Spear", 
+    "SKILLDMG+1"
+  ],
+  "221": [
+    "Skill: Death Nova", 
+    "SKILLDMG+1"
+  ],
+  "222": [
+    "Skill: Skeletal Mage", 
+    "SKILLDMG+1"
+  ],
+  "223": [
+    "Skill: Bone Spirit", 
+    "SKILLDMG+1"
+  ],
+  "224": [
+    "Skill: Bone Armor", 
+    "SKILLDMG+1"
+  ],
+  "225": [
+    "Skill: Corpse Lance", 
+    "SKILLDMG+1"
+  ],
+  "226": [
+    "Skill: Revive", 
+    "SKILLDMG+1"
+  ],
+  "227": [
+    "Skill: Command Skeletons", 
+    "SKILLDMG+1"
+  ],
+  "228": [
+    "Skill: Command Golem", 
+    "SKILLDMG+1"
+  ],
+  "229": [
+    "Skill: Corpse Explosion", 
+    "SKILLDMG+1"
+  ],
+  "230": [
+    "Skill: Bone Spikes", 
+    "SKILLDMG+1"
+  ],
+  "231": [
+    "Skill: Grim Scythe", 
+    "SKILLDMG+1"
+  ],
+  "232": [
+    "Skill: Siphon Blood", 
+    "SKILLDMG+1"
+  ]
+}

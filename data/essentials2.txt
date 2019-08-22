@@ -1,0 +1,1292 @@
+;|||| ITEMS
+
+; 1h
++1h = name=Aidan's Revenge
+-1h = name=Akanesh, the Herald of Righteousness
++1h = name=Amberwing
+-1h = name=Arreat's Law
+-1h = name=Azurewrath
++1h = name=Born's Furious Wrath & *only_ancient*
+-1h = name=Born's Furious Wrath
++1h = name=Chantodo's Sacred Protector
+-1h = name=Dawn
++1h = name=Deathreach
+-1h = name=Deathwish
++1h = name=Devastator & *only_ancient* & sdmg_any+18
+-1h = name=Devastator
+-1h = name=Devil Tongue
+-1h = name=Dishonored Legacy
+-1h = name=Doombringer
++1h = name=Earthshatter
+-1h = name=Echoing Fury
+-1h = name=Empyrean Messenger
+-1h = name=Envious Blade
+-1h = name=Exarian
++1h = name=Falcon Strike
++1h = name=Fenris Tooth
+-1h = name=Flail of the Charge
+-1h = name=Flesh Tearer
+-1h = name=Fulminator
+-1h = name=Genzaniku
++1h = name=Ghoul King's Blade
+-1h = name=Gift of Silaria
++1h = name=God Butcher
++1h = name=Griswold's Masterpiece
++1h = name=Griswold's Perfection
++1h = name=Griswold's Worn Edge
++1h = name=Gull Dagger
+-1h = name=Hack
++1h = name=Hallowed Avenger
++1h = name=Hallowed Breach
++1h = name=Hallowed Destroyer
++1h = name=Hallowed Divide
++1h = name=Hallowed Rod
++1h = name=Hallowed Sacrifice
++1h = name=Hallowed Storm
++1h = name=Hallowed Touch
++1h = name=Hellion Scale
++1h = name=In-geom & *only_ancient*
+-1h = name=In-geom
++1h = name=Incinerator
+-1h = name=Jace's Hammer of Vigilance
++1h = name=Kyoshiro's Blade & *only_ancient*
+-1h = name=Kyoshiro's Blade
+-1h = name=Lianna's Wings
++1h = name=Lifebane
++1h = name=Little Rogue & *only_ancient*
+-1h = name=Little Rogue
+-1h = name=Lord Greenstone's Fan
+-1h = name=Mad Monarch's Scepter
+-1h = name=Monster Hunter
++1h = name=Moon Slayer
+-1h = name=Mordullu's Promise
++1h = name=Mortal Coil
+-1h = name=Nailbiter
++1h = name=Nazim's Greatness
+-1h = name=Neanderthal
+-1h = name=Nutcracker
+-1h = name=Oathkeeper
+-1h = name=Odyn Son
++1h = name=Prowl's Dastardly Shiv
++1h = name=Quietus
++1h = name=Rakanishu's Blade
++1h = name=Rancor
+-1h = name=Rimeheart
++1h = name=Sacrificer
+-1h = name=Scrimshaw
+-1h = name=Sever
+-1h = name=Shard of Hate
+-1h = name=Sky Splitter
+-1h = name=Skycutter
++1h = name=Solanium & *only_ancient*
+-1h = name=Solanium
++1h = name=Spectrum
++1h = name=Steffon's Heavy Lance
+-1h = name=Sword of Ill Will
++1h = name=Sun Keeper & *only_ancient*
+-1h = name=Sun Keeper
+-1h = name=Telranden's Hand
+-1h = name=The Ancient Bonesaber of Zumakalis
+-1h = name=The Burning Axe of Sankis
+-1h = name=The Butcher's Sickle
++1h = name=The Clipper
++1h = name=The Horadric Hamburger
++1h = name=The Slanderer & *only_ancient*
+-1h = name=The Slanderer
+-1h = name=The Three Hundredth Spear
++1h = name=The Twisted Sword & *only_ancient*
+-1h = name=The Twisted Sword
++1h = name=The Wedge
++1h = name=Thunderfury, Blessed Blade of the Windseeker & *only_ancient*
+-1h = name=Thunderfury, Blessed Blade of the Windseeker
++1h = name=Utar's Roar
+-1h = name=Wildwood
++1h = name=Wirt's Original Leg
++1h = name=Ziggurat Tooth
+
++1h = name=Blood-Magic Blade
++1h = name=Blood-Magic Edge
+-1h = name=Eun-Jang-do
+-1h = name=Karlei's Point
+-1h = name=Kill
+-1h = name=Pig Sticker
+-1h = name=The Barber
+-1h = name=Wizardspike
+-1h = name=Voo's Juicer
+
+-1h = name=Ambo's Pride
+-1h = name=Blade of the Warlord
++1h = name=Bul-Kathos's Solemn Vow & *only_ancient*
+-1h = name=Bul-Kathos's Solemn Vow
++1h = name=Bul-Kathos's Warrior Blood & *only_ancient*
+-1h = name=Bul-Kathos's Warrior Blood
+-1h = name=Fjord Cutter
++1h = name=Hallowed Nemesis
++1h = name=Hallowed Reckoning
++1h = name=Harvest Moon
++1h = name=Night's Reaping
+-1h = name=Remorseless
+
+-1h = name=Crystal Fist
++1h = name=Demon Claw
++1h = name=Demon Hand
+-1h = name=Fleshrake
++1h = name=Hallowed Hand
++1h = name=Hallowed Hold
++1h = name=Jawbreaker & *only_ancient*
+-1h = name=Jawbreaker
+-1h = name=Logan's Claw
+-1h = name=Rabid Strike
+-1h = name=Scarbringer
++1h = name=Shenlong's Fist of Legend & *only_ancient*
+-1h = name=Shenlong's Fist of Legend
++1h = name=Shenlong's Relentless Assault & *only_ancient*
+-1h = name=Shenlong's Relentless Assault
++1h = name=Sledge Fist & *only_ancient*
+-1h = name=Sledge Fist
++1h = name=The Fist of Az'Turrasq & *only_ancient*
+-1h = name=The Fist of Az'Turrasq
++1h = name=Lion's Claw & *only_ancient*
+-1h = name=Lion's Claw
+-1h = name=Vengeful Wind
++1h = name=Won Khim Lau & *only_ancient*
+-1h = name=Won Khim Lau
+
+-1h = name=Darklight
++1h = name=Golden Scourge
+-1h = name=Gyrfalcon's Foote
+-1h = name=Inviolable Faith
+-1h = name=Justinian's Mercy
+-1h = name=Kassar's Retribution
+-1h = name=Swiftmount
++1h = name=Johanna's Argument & *only_ancient*
+-1h = name=Johanna's Argument
+
+-1h = name=Anessazi Edge
+-1h = name=Deadly Rebirth
++1h = name=Hallowed Salvation
++1h = name=Hallowed Sufferance
++1h = name=Last Breath & *only_ancient*
+-1h = name=Last Breath
++1h = name=Living Umbral Oath
+-1h = name=Manajuma's Carving Knife
+-1h = name=Rhen'ho Flayer
+-1h = name=Sacred Harvester
++1h = name=Starmetal Kukri
++1h = name=The Dagger of Darts & *only_ancient*
+-1h = name=The Dagger of Darts
+-1h = name=The Gidbinn
++1h = name=The Spider Queen's Grasp & *only_ancient*
+-1h = name=The Spider Queen's Grasp
++1h = name=Umbral Oath
+
+-handcrossbow = name=Balefire Caster
++handcrossbow = name=Blitzbolter
++handcrossbow = name=Calamity & DPS+2100
+-handcrossbow = name=Calamity
+-handcrossbow = name=Danetta's Revenge
+-handcrossbow = name=Danetta's Spite
+-handcrossbow = name=Dawn
++handcrossbow = name=Deadeye
++handcrossbow = name=Hallowed Judgment
++handcrossbow = name=Hallowed Condemnation
+-handcrossbow = name=Helltrapper
+-handcrossbow = name=Izzuccob
+-handcrossbow = name=K'mar Tenclip
+-handcrossbow = name=Natalya's Slayer
+-handcrossbow = name=The Demon's Demise
+-handcrossbow = name=Valla's Bequest
+
++1h = name=Aether Walker & *only_ancient*
+-1h = name=Aether Walker
++1h = name=Atrophy
+-1h = name=Blackhand Key
+-1h = name=Chantodo's Will
+-1h = name=Fragment of Destiny
+-1h = name=Gesture of Orpheus
++1h = name=Hallowed Baton
++1h = name=Hallowed Scepter
++1h = name=Ruinstoke
++1h = name=Serpent's Sparker & *only_ancient*
+-1h = name=Serpent's Sparker
+-1h = name=Slorak's Madness
+-1h = name=Starfire
++1h = name=Unstable Scepter & *only_ancient*
+-1h = name=Unstable Scepter
++1h = name=Wand of Woh
+
+; belt
++belt = name=Ageless Might & *belt_common*
+-belt = name=Ageless Might
++belt = name=Ancients' Discontent
++belt = name=Angel Hair Braid & *belt_common*
+-belt = name=Angel Hair Braid
++belt = name=Belt of the Trove & *belt_common*
+-belt = name=Belt of the Trove
++belt = name=Belt of Transcendence & *belt_common*
+-belt = name=Belt of Transcendence
++belt = name=Binding of the Lost & *belt_common*
+-belt = name=Binding of the Lost
++belt = name=Blackthorne's Notched Belt & *belt_common* & *only_ancient*
+-belt = name=Blackthorne's Notched Belt
++belt = name=Blessed of Haull & *belt_common*
+-belt = name=Blessed of Haull
++belt = name=Captain Crimson's Silk Girdle & *belt_common*
+-belt = name=Captain Crimson's Silk Girdle
++belt = name=Chain of Shadows & *belt_common*
+-belt = name=Chain of Shadows
++belt = name=Chilanik's Chain & *belt_common*
+-belt = name=Chilanik's Chain
++belt = name=Cord of the Sherma & *belt_common*
+-belt = name=Cord of the Sherma
++belt = name=Crashing Rain & *belt_common*
+-belt = name=Crashing Rain
++belt = name=Demon's Binding
++belt = name=Demon's Lock
++belt = name=Demon's Restraint
++belt = name=Dread Iron & *belt_common*
+-belt = name=Dread Iron
++belt = name=Fazula's Improbable Chain & *belt_common*
+-belt = name=Fazula's Improbable Chain
++belt = name=Fleeting Strap & *belt_rare*
+-belt = name=Fleeting Strap
++belt = name=Girdle of Giants & *belt_common*
+-belt = name=Girdle of Giants
++belt = name=Goldwrap & *belt_common*
+-belt = name=Goldwrap
++belt = name=Guardian's Case
++belt = name=Guardian's Scabbard
++belt = name=Guardian's Sheath
++belt = name=Harrington Waistguard & *belt_common*
+-belt = name=Harrington Waistguard
++belt = name=Haunting Girdle & *belt_common*
+-belt = name=Haunting Girdle
++belt = name=Hellcat Waistguard & *belt_common*
+-belt = name=Hellcat Waistguard
++belt = name=Hergbrash's Binding & *belt_common*
+-belt = name=Hergbrash's Binding
++belt = name=Hunter's Wrath & *belt_common*
+-belt = name=Hunter's Wrath
++belt = name=Hwoj Wrap & *belt_common*
+-belt = name=Hwoj Wrap
++belt = name=Immortal King's Tribal Binding & *belt_common*
+-belt = name=Immortal King's Tribal Binding
++belt = name=Inna's Favor & *belt_rare*
+-belt = name=Inna's Favor
++belt = name=Insatiable Belt & *belt_common*
+-belt = name=Insatiable Belt
++belt = name=Jang's Envelopment & *belt_common*
+-belt = name=Jang's Envelopment
++belt = name=Kotuur's Brace & *belt_common*
+-belt = name=Kotuur's Brace
++belt = name=Krelm's Buff Belt & *belt_common*
+-belt = name=Krelm's Buff Belt
++belt = name=Kyoshiro's Soul & *belt_common*
+-belt = name=Kyoshiro's Soul
++belt = name=Lamentation & *belt_common*
+-belt = name=Lamentation
++belt = name=Omnislash & *belt_common*
+-belt = name=Omnislash
++belt = name=Omryn's Chain & *belt_common*
+-belt = name=Omryn's Chain
++belt = name=Pride of Cassius & *belt_common*
+-belt = name=Pride of Cassius
++belt = name=Promise of the Doomed Forebearer
++belt = name=Quick Draw Belt
++belt = name=Razor Strop & *belt_common*
+-belt = name=Razor Strop
++belt = name=Sacred Harness & *belt_common*
+-belt = name=Sacred Harness
++belt = name=Saffron Wrap & *belt_common*
+-belt = name=Saffron Wrap
++belt = name=Sash of Knives & *belt_common*
+-belt = name=Sash of Knives
++belt = name=Sebor's Nightmare & *belt_common*
+-belt = name=Sebor's Nightmare
++belt = name=String of Ears & *belt_common*
+-belt = name=String of Ears
++belt = name=Tal Rasha's Brace & *belt_common*
+-belt = name=Tal Rasha's Brace
++belt = name=The Shame of Delsere & *belt_rare*
+-belt = name=The Shame of Delsere
++belt = name=The Undisputed Champion & *belt_common*
+-belt = name=The Undisputed Champion
++belt = name=The Witching Hour & ias+7 & critdmg+45 & at_least[1, main_stat+400, vita+400]
+-belt = name=The Witching Hour
++belt = name=Thundergod's Vigor & *belt_common* & dex+100
+-belt = name=Thundergod's Vigor
++belt = name=Vigilante Belt & *belt_common*
+-belt = name=Vigilante Belt
++belt = name=Wodir Harness
++belt = name=Zoey's Secret & *belt_common*
+-belt = name=Zoey's Secret
+
+; 2h
++2h = name=Amazonian Arch
+-2h = name=Arthef's Spark of Life
+-2h = name=Ashbringer
+-2h = name=Bastion's Revered
+-2h = name=Blackguard
+-2h = name=Blade of Prophecy
+-2h = name=Blade of the Tribes
+-2h = name=Blood Brother
++2h = name=Boneshatter
+-2h = name=Bovine Bardiche
+-2h = name=Burst of Wrath
+-2h = name=Butcher's Carver
+-2h = name=Cam's Rebuttal
++2h = name=Cataclysm
++2h = name=Cinder Switch
+-2h = name=Corrupted Ashbringer
+-2h = name=Crushbane
+-2h = name=Faithful Memory
++2h = name=Fire Brand
++2h = name=Foushee Voulge
++2h = name=Fury of the Vanished Peak & *only_ancient*
+-2h = name=Fury of the Vanished Peak
++2h = name=Grim Reaper
++2h = name=Heart Slaughter & *only_ancient*
+-2h = name=Heart Slaughter
++2h = name=Immortal King's Boulder Breaker & *only_ancient*
+;+2h = name=Immortal King's Boulder Breaker & at_least[3, main_stat, cdred, dmg_pbonus, max_fury]
+;+2h = name=Immortal King's Boulder Breaker & at_least[3, main_stat, dmg_pbonus, max_fury]
+-2h = name=Immortal King's Boulder Breaker
+-2h = name=Madawc's Sorrow
+-2h = name=Maximus
+-2h = name=Messerschmidt's Reaver
+-2h = name=Pledge of Caldeum
++2h = name=Saint of Slaughter
++2h = name=Schaefer's Hammer & sdmg_any+22 & *only_ancient*
+-2h = name=Schaefer's Hammer
+-2h = name=Scourge
+-2h = name=Skorn
+-2h = name=Skywarden
+-2h = name=Sledge of Athskeleng
+-2h = name=Soulsmasher
++2h = name=Splintered Oar
+-2h = name=Stalgard's Decimator
+-2h = name=Standoff
++2h = name=Sunder
++2h = name=Sungjae's Fury
++2h = name=SuWong Diviner
++2h = name=The Clouds and the Moon
+-2h = name=The Executioner
++2h = name=The Furnace & *only_ancient*
+-2h = name=The Furnace
++2h = name=The Gavel of Judgment & *only_ancient*
+-2h = name=The Gavel of Judgment
+-2h = name=The Grandfather
++2h = name=The Marauder
+-2h = name=The Sultan of Blinding Sand
+-2h = name=The Zweihander
++2h = name=Unending War
+-2h = name=Vigilance
++2h = name=War of the Dead
+-2h = name=Warmonger
++2h = name=Wrath of the Bone King & *only_ancient*
+-2h = name=Wrath of the Bone King
+
+-2h = name=Balance
+-2h = name=Flying Dragon
++2h = name=Incense Torch of the Grand Temple & *only_ancient*
+-2h = name=Incense Torch of the Grand Temple
++2h = name=Lai Yui's Persuader
++2h = name=Lai Yui's Taiji
++2h = name=Rozpedin's Force
++2h = name=Rozpedin's Staff
+-2h = name=Staff of Chiroptera
+-2h = name=Staff of Kyro
+-2h = name=The Flow of Eternity
+-2h = name=The Paddle
+-2h = name=Warstaff of General Quang
+
+-2h = name=Ahavarion, Spear of Lycander
+-2h = name=Autumn's Call
+-2h = name=Inna's Reach
+-2h = name=Maloth's Focus
++2h = name=Mark of The Magi
+-2h = name=The Broken Staff
+-2h = name=The Grand Vizier
++2h = name=The Magi
+-2h = name=The Smoldering Core
+-2h = name=The Tormentor
+-2h = name=Valthek's Rebuke
+-2h = name=Wormwood
+
++2h = name=Akkhan's Addendum & *only_ancient*
+-2h = name=Akkhan's Addendum
++2h = name=Akkhan's Leniency & *only_ancient*
+-2h = name=Akkhan's Leniency
++2h = name=Baleful Remnant & *only_ancient*
+-2h = name=Baleful Remnant
+-2h = name=Fate of the Fell
+-2h = name=Golden Flense
+-2h = name=The Mortal Drama
+
++bow = name=Cluckeye & *bow_common*
+-bow = name=Cluckeye
++bow = name=Etrayu & *bow_common*
+-bow = name=Etrayu
++bow = name=Kridershot & *bow_ultra*
+-bow = name=Kridershot
++bow = name=Leonine Bow of Hashir & *bow_common*
+-bow = name=Leonine Bow of Hashir
++bow = name=Longshot & *bow_common*
+-bow = name=Longshot
++bow = name=Odyssey's End & *bow_common*
+-bow = name=Odyssey's End
++bow = name=Sydyru Crust & *bow_common*
+-bow = name=Sydyru Crust
++bow = name=The Raven's Wing & *bow_common*
+-bow = name=The Raven's Wing
++bow = name=Unbound Bolt & *bow_common*
+-bow = name=Unbound Bolt
++bow = name=Uskang & *bow_common*
+-bow = name=Uskang
++bow = name=Venomhusk & *bow_common*
+-bow = name=Venomhusk
++bow = name=Windforce & *bow_common*
+-bow = name=Windforce
+-bow = name=Yang's Recurve
+
++crossbow = name=Arcane Barb & *crossbow_common*
+-crossbow = name=Arcane Barb
++crossbow = name=Bakkan Caster & *crossbow_common*
+-crossbow = name=Bakkan Caster
++crossbow = name=Buriza-Do Kyanon & *crossbow_rare*
+-crossbow = name=Buriza-Do Kyanon
++crossbow = name=Chanon Bolter & *crossbow_common*
+-crossbow = name=Chanon Bolter
++crossbow = name=Hellrack & *crossbow_rare*
+-crossbow = name=Hellrack
++crossbow = name=Demon Machine & *crossbow_common*
+-crossbow = name=Demon Machine
++crossbow = name=Manticore & *crossbow_common*
+-crossbow = name=Manticore
++crossbow = name=Pus Spitter & *crossbow_common*
+-crossbow = name=Pus Spitter
++crossbow = name=Starspine & *crossbow_common*
+-crossbow = name=Starspine
++crossbow = name=Wojahnni Assaulter & *crossbow_common*
+-crossbow = name=Wojahnni Assaulter
+
+; crusadershield
+-crusadershield = name=Akarat's Awakening
+-crusadershield = name=Frydehr's Wrath
+-crusadershield = name=Guard of Johanna
+-crusadershield = name=Hallowed Bulwark
+-crusadershield = name=Hellskull
+-crusadershield = name=Jekangbord
++crusadershield = name=Piro Marella
+-crusadershield = name=Salvation
+-crusadershield = name=Shield of Fury
+-crusadershield = name=Shield of the Steed
+-crusadershield = name=Sublime Conviction
+-crusadershield = name=The Final Witness
+-crusadershield = name=Unrelenting Phalanx
+
+; gloves
++gloves = name=Alabaster Gloves & *gloves_common*
+-gloves = name=Alabaster Gloves
++gloves = name=Arachyr's Claws & *gloves_common*
+-gloves = name=Arachyr's Claws
++gloves = name=Asheara's Ward & *gloves_common*
+-gloves = name=Asheara's Ward
++gloves = name=Cain's Scrivener & *gloves_common*
+-gloves = name=Cain's Scrivener
++gloves = name=Fiendish Grips & *gloves_common*
+-gloves = name=Fiendish Grips
++gloves = name=Fierce Gauntlets & *gloves_rare*
+-gloves = name=Fierce Gauntlets
++gloves = name=Firebird's Talons & *gloves_noias*
+-gloves = name=Firebird's Talons
++gloves = name=Fists of Thunder & *gloves_common*
+-gloves = name=Fists of Thunder
++gloves = name=Frostburn & *gloves_common*
+-gloves = name=Frostburn
++gloves = name=Gauntlets of Akkhan & *gloves_common*
+-gloves = name=Gauntlets of Akkhan
++gloves = name=Gauntlet of the Wastes & *gloves_common*
+-gloves = name=Gauntlet of the Wastes
++gloves = name=Gladiator Gauntlets & *gloves_crap*
+-gloves = name=Gladiator Gauntlets
+-gloves = name=Gloves of Worship
++gloves = name=Helltooth Gauntlets & *gloves_crap*
+-gloves = name=Helltooth Gauntlets
++gloves = name=Immortal King's Irons & *gloves_common*
+-gloves = name=Immortal King's Irons
++gloves = name=Inna's Hold & *gloves_rare*
+-gloves = name=Inna's Hold
++gloves = name=Jade Harvester's Mercy & *gloves_common*
+-gloves = name=Jade Harvester's Mercy
++gloves = name=Magefist & main_stat+700 & at_least[1, crit+8, critdmg+40] & sdmg_any+18
+-gloves = name=Magefist
++gloves = name=Marauder's Gloves & *gloves_common*
+-gloves = name=Marauder's Gloves
++gloves = name=Natalya's Touch & *gloves_common*
+-gloves = name=Natalya's Touch
++gloves = name=Pendergrasps & *gloves_common*
+-gloves = name=Pendergrasps
++gloves = name=Penders Purchase & *gloves_crap*
+-gloves = name=Penders Purchase
++gloves = name=Pride of the Invoker & *gloves_crap*
+-gloves = name=Pride of the Invoker
++gloves = name=Pull of the Earth & *gloves_crap*
+-gloves = name=Pull of the Earth
++gloves = name=Raekor's Wraps & *gloves_common*
+-gloves = name=Raekor's Wraps
++gloves = name=Roland's Grasp & *gloves_common*
+-gloves = name=Roland's Grasp
++gloves = name=Sage's Purchase & *gloves_common*
+-gloves = name=Sage's Purchase
+-gloves = name=St. Archew's Gage
++gloves = name=Stone Gauntlets & *gloves_common*
+-gloves = name=Stone Gauntlets
++gloves = name=Sunwuko's Paws & *gloves_common*
++gloves = name=Sunwuko's Paws & at_least[3, main_stat+620, crit+9, critdmg+40, cdred+9]
+-gloves = name=Sunwuko's Paws
++gloves = name=Tal Rasha's Grasp & *gloves_common*
+-gloves = name=Tal Rasha's Grasp
++gloves = name=Tasker and Theo & *gloves_common*
+-gloves = name=Tasker and Theo
++gloves = name=The Shadow's Grasp & *gloves_crap*
+-gloves = name=The Shadow's Grasp
++gloves = name=Uliana's Fury & *gloves_common*
+-gloves = name=Uliana's Fury
++gloves = name=Vyr's Grasping Gauntlets & *gloves_crap*
+-gloves = name=Vyr's Grasping Gauntlets
++gloves = name=Will of the Light & *gloves_common*
+-gloves = name=Will of the Light
++gloves = name=Wraps of Clarity & *gloves_common*
+-gloves = name=Wraps of Clarity
++gloves = name=Zunimassa's Finger Wraps & *gloves_common*
+-gloves = name=Zunimassa's Finger Wraps
+
+; shield
++shield = name=Amazonian Parma
++shield = name=Beastguard
++shield = name=Centurion
+-shield = name=Coven's Criterion
+-shield = name=Defender of Westmarch
+-shield = name=Denial
+-shield = name=Eberli Charo
+-shield = name=Freeze of Deflection
++shield = name=Hallowed Barricade
++shield = name=Hallowed Barrier
++shield = name=Hallowed Defender
+-shield = name=Ivory Tower
+-shield = name=Lidless Wall
++shield = name=Stormshield & at_least[3, vita+800, hpreg+5000, cdred+6]
+-shield = name=Stormshield
+-shield = name=Vo'Toyias Spiker
++shield = name=Wall of Bone
++shield = name=Wall of Man
++shield = name=Wretchskin
+
+; amulet
++amulet = quality=9 & at_least[4, main_stat+700, vita+700, cdred+7, sock+1]
++amulet = name=Ancestors' Grace
++amulet = name=Blackthorne's Duncraig Cross & *amulet_common* & *only_ancient*
+-amulet = name=Blackthorne's Duncraig Cross
++amulet = name=Countess Julia's Cameo & *amulet_common*
+-amulet = name=Countess Julia's Cameo
++amulet = name=Dovu Energy Trap & *amulet_common*
+-amulet = name=Dovu Energy Trap
++amulet = name=Eye of Etlich & *amulet_common*
+-amulet = name=Eye of Etlich
++amulet = name=Golden Gorget of Leoric & *amulet_common*
+-amulet = name=Golden Gorget of Leoric
++amulet = name=Halcyon's Ascent & *amulet_common*
+-amulet = name=Halcyon's Ascent
++amulet = name=Haunt of Vaxo & *amulet_common*
+-amulet = name=Haunt of Vaxo
++amulet = name=Hellfire Amulet & *amulet_common*
++amulet = name=Hellfire Amulet & at_least[3, sock+1, cdred+7, hpreg+6000, vita+700]
+-amulet = name=Hellfire Amulet
++amulet = name=Holy Beacon & *amulet_common*
+-amulet = name=Holy Beacon
++amulet = name=Kymbo's Gold & *amulet_common*
+-amulet = name=Kymbo's Gold
++amulet = name=Mara's Kaleidoscope & *amulet_common*
+-amulet = name=Mara's Kaleidoscope
++amulet = name=Moonlight Ward & *amulet_common*
+-amulet = name=Moonlight Ward
++amulet = name=Ouroboros & *amulet_common*
+-amulet = name=Ouroboros
++amulet = name=Overwhelming Desire & *amulet_common*
+-amulet = name=Overwhelming Desire
++amulet = name=Rakoff's Glass of Life & *amulet_common*
+-amulet = name=Rakoff's Glass of Life
++amulet = name=Rondal's Locket & *amulet_common*
+-amulet = name=Rondal's Locket
++amulet = name=Spirit of Adventure
++amulet = name=Squirt's Necklace & *amulet_common*
+-amulet = name=Squirt's Necklace
++amulet = name=Sunwuko's Shines & *amulet_rare*
+-amulet = name=Sunwuko's Shines
++amulet = name=Tal Rasha's Allegiance & *amulet_common*
+-amulet = name=Tal Rasha's Allegiance
++amulet = name=Talisman of Aranoch & *amulet_common*
+-amulet = name=Talisman of Aranoch
++amulet = name=The Ess of Johan & *amulet_common*
+-amulet = name=The Ess of Johan
++amulet = name=The Flavor of Time & *amulet_common*
+-amulet = name=The Flavor of Time
++amulet = name=The Murlocket
++amulet = name=The Star of Azkaranth & *amulet_rare*
++amulet = name=The Star of Azkaranth
++amulet = name=The Traveler's Pledge & *amulet_rare*
+-amulet = name=The Traveler's Pledge
++amulet = name=Xephirian Amulet & *amulet_rare*
+-amulet = name=Xephirian Amulet
+
+; bracers
++bracers = name=Ancient Parthan Defenders & *bracers_common*
+-bracers = name=Ancient Parthan Defenders
++bracers = name=Akkhan's Manacles & *bracers_common*
+-bracers = name=Akkhan's Manacles
++bracers = name=Aughild's Search & *bracers_common*
+-bracers = name=Aughild's Search
++bracers = name=Bindings of the Lesser Gods & *bracers_common*
+-bracers = name=Bindings of the Lesser Gods
++bracers = name=Bracers of Destruction & *bracers_common*
+-bracers = name=Bracers of Destruction
++bracers = name=Bracer of Fury & *bracers_common*
+-bracers = name=Bracer of Fury
++bracers = name=Bracers of the First Men & *bracers_common*
+-bracers = name=Bracers of the First Men
++bracers = name=Cesar's Memento & *bracers_common*
+-bracers = name=Cesar's Memento
++bracers = name=Coils of the First Spider & *bracers_common*
+-bracers = name=Coils of the First Spider
+-bracers = name=Custerian Wristguards
++bracers = name=Demon's Animus
++bracers = name=Demon's Manacles
++bracers = name=Demon's Revenge
++bracers = name=Drakon's Lesson & *bracers_common*
+-bracers = name=Drakon's Lesson
++bracers = name=Gabriel's Vambraces & *bracers_common*
+-bracers = name=Gabriel's Vambraces
++bracers = name=Guardian's Aversion
++bracers = name=Guardian's Bands
++bracers = name=Guardian's Deflector
++bracers = name=Gungdo Gear & *bracers_common*
+-bracers = name=Gungdo Gear
++bracers = name=Jeram's Bracers & *bracers_common*
+-bracers = name=Jeram's Bracers
++bracers = name=Kethryes' Splint
++bracers = name=Krelm's Buff Bracers & *bracers_common*
+-bracers = name=Krelm's Buff Bracers
++bracers = name=Lacuni Prowlers & *bracers_rare*
+-bracers = name=Lacuni Prowlers
++bracers = name=Lakumba's Ornament & *bracers_common*
+-bracers = name=Lakumba's Ornament
++bracers = name=Lucky Bowman's Armscales
++bracers = name=Nemesis Bracers & *bracers_common*
+-bracers = name=Nemesis Bracers
++bracers = name=Pinto's Pride & *bracers_rare*
+-bracers = name=Pinto's Pride
+-bracers = name=Promise of Glory
++bracers = name=Ranslor's Folly & *bracers_common*
+-bracers = name=Ranslor's Folly
++bracers = name=Reaper's Wraps & *bracers_common* & *only_ancient*
+-bracers = name=Reaper's Wraps
+-bracers = name=Sanguinary Vambraces
+-bracers = name=Shackles of the Invoker
++bracers = name=Skular's Salvation & *bracers_common*
+-bracers = name=Skular's Salvation
+-bracers = name=Slave Bonds
++bracers = name=Spirit Guards & *bracers_rare*
+-bracers = name=Spirit Guards
+-bracers = name=Steady Strikers
++bracers = name=Strongarm Bracers & *bracers_common*
+-bracers = name=Strongarm Bracers
+-bracers = name=Trag'Oul Coils
++bracers = name=Vambraces of Sescheron & *bracers_common*
+-bracers = name=Vambraces of Sescheron
++bracers = name=Warzechian Armguards & *bracers_common*
+-bracers = name=Warzechian Armguards
++bracers = name=Wondrous Deflectors
+
+; helm
++helm = name=Accursed Visage & *helm_common*
+-helm = name=Accursed Visage
++helm = name=Andariel's Visage & *helm_common*
+-helm = name=Andariel's Visage
++helm = name=Arachyr's Visage & *helm_common*
+-helm = name=Arachyr's Visage
++helm = name=Aughild's Spike & *helm_common*
+-helm = name=Aughild's Spike
+-helm = name=Blind Faith
+-helm = name=Broken Crown
++helm = name=Cain's Insight & *helm_common*
+-helm = name=Cain's Insight
++helm = name=Cain's Laurel
++helm = name=Cain's Memory
+-helm = name=Crown of the Invoker
++helm = name=Crown of the Primus & *helm_common*
+-helm = name=Crown of the Primus
++helm = name=Crown of the Light & *helm_common*
+-helm = name=Crown of the Light
++helm = name=Death Mask
+-helm = name=Deathseer's Cowl
+-helm = name=Eyes of the Earth
++helm = name=Firebird's Plume & *helm_common*
+-helm = name=Firebird's Plume
++helm = name=Giant Skull
++helm = name=Guardian's Foresight
++helm = name=Guardian's Gaze
++helm = name=Guardian's Watch
++helm = name=Hallowed Helm
++helm = name=Helltooth Mask & *helm_common*
+-helm = name=Helltooth Mask
++helm = name=Helm of Akkhan & *helm_common*
+-helm = name=Helm of Akkhan
++helm = name=Helm of the Wastes & *helm_common*
+-helm = name=Helm of the Wastes
++helm = name=Immortal King's Triumph & *helm_common*
+-helm = name=Immortal King's Triumph
++helm = name=Jade Harvester's Wisdom & *helm_common*
+-helm = name=Jade Harvester's Wisdom
++helm = name=Leoric's Crown & *helm_common*
+-helm = name=Leoric's Crown
++helm = name=Marauder's Visage & *helm_common*
+-helm = name=Marauder's Visage
++helm = name=Mask of Lies
+-helm = name=Mask of the Searing Sky
+-helm = name=Mempo of Twilight
+-helm = name=Natalya's Sight
++helm = name=Pride's Fall & *helm_common*
+-helm = name=Pride's Fall
++helm = name=Raekor's Will & *helm_common*
+-helm = name=Raekor's Will
++helm = name=Roland's Visage & *helm_common*
+-helm = name=Roland's Visage
++helm = name=Sage's Apogee & *helm_common*
+-helm = name=Sage's Apogee
++helm = name=Shrouded Mask & *helm_rare*
+-helm = name=Shrouded Mask
+-helm = name=Skull of Resonance
++helm = name=Sunwuko's Crown & *helm_common*
+-helm = name=Sunwuko's Crown
++helm = name=Tal Rasha's Guise of Wisdom & *helm_common*
+-helm = name=Tal Rasha's Guise of Wisdom
++helm = name=The Helm of Command
++helm = name=The Helm of Rule & *helm_common*
+-helm = name=The Helm of Rule
++helm = name=The Shadow's Mask & *helm_common*
+-helm = name=The Shadow's Mask
++helm = name=Uliana's Spirit & *helm_common*
+-helm = name=Uliana's Spirit
++helm = name=Visage of Gunes & *helm_common*
+-helm = name=Visage of Gunes
++helm = name=Vyr's Sightless Skull & *helm_common*
+-helm = name=Vyr's Sightless Skull
++helm = name=Warhelm of Kassar & *helm_common*
+-helm = name=Warhelm of Kassar
+
+-helm = name=Archmage's Vicalyke
+-helm = name=Dark Mage's Shade
+-helm = name=Storm Crow
+-helm = name=The Magistrate
+-helm = name=The Swami
+-helm = name=Velvet Camaral
+
+-helm = name=Bezoar Stone
+-helm = name=Erlang Shen
+-helm = name=Eye of Peshkov
+-helm = name=Gyana Na Kashu
++helm = name=Inna's Radiance & *helm_common*
++helm = name=Inna's Radiance & at_least[3, vita+800, hpreg+8000, sock+1, allres+110]
+-helm = name=Inna's Radiance
+-helm = name=Kekegi's Unbreakable Spirit
+-helm = name=Madstone
+-helm = name=See No Evil
+-helm = name=The Eye of the Storm
++helm = name=The Laws of Seph & *helm_common*
+-helm = name=The Laws of Seph
++helm = name=The Mind's Eye & *helm_common*
+-helm = name=The Mind's Eye
++helm = name=Tzo Krin's Gaze & *helm_common*
+-helm = name=Tzo Krin's Gaze
+
++helm = name=Carnevil & *helm_common*
+-helm = name=Carnevil
++helm = name=Mask of Jeram & *helm_common*
+-helm = name=Mask of Jeram
++helm = name=Quetzalcoatl & *helm_common*
+-helm = name=Quetzalcoatl
+-helm = name=Split Tusk
++helm = name=The Grin Reaper & *helm_common*
+-helm = name=The Grin Reaper
++helm = name=Tiklandian Visage & *helm_rare*
+-helm = name=Tiklandian Visage
++helm = name=Visage of Giyua & *helm_common*
+-helm = name=Visage of Giyua
++helm = name=Zunimassa's Vision & *helm_common*
+-helm = name=Zunimassa's Vision
+
+; chestarmor
++chestarmor = name=Aquila Cuirass & *chestarmor_common*
+-chestarmor = name=Aquila Cuirass
++chestarmor = name=Arachyr's Carapace & *chestarmor_common*
+-chestarmor = name=Arachyr's Carapace
++chestarmor = name=Armor of the Kind Regent & *chestarmor_common*
+-chestarmor = name=Armor of the Kind Regent
++chestarmor = name=Aughild's Rule & *chestarmor_common*
+-chestarmor = name=Aughild's Rule
+-chestarmor = name=Beckon Sail
+-chestarmor = name=Blackfeather
++chestarmor = name=Blackthorne's Surcoat & *chestarmor_common* & *only_ancient*
+-chestarmor = name=Blackthorne's Surcoat
++chestarmor = name=Born's Carapace
++chestarmor = name=Born's Frozen Soul & *chestarmor_common*
+-chestarmor = name=Born's Frozen Soul
++chestarmor = name=Born's Heart of Steel
++chestarmor = name=Breastplate of Akkhan & *chestarmor_common*
+-chestarmor = name=Breastplate of Akkhan
++chestarmor = name=Cage of the Hellborn & *chestarmor_common*
+-chestarmor = name=Cage of the Hellborn
+-chestarmor = name=Cape of the Dark Night
+-chestarmor = name=Chaingmail
++chestarmor = name=Cindercoat & main_stat+400 & sdmg_any+19 & at_least[1, vita+400, sock+3] & *only_ancient*
+-chestarmor = name=Cindercoat
+-chestarmor = name=Cloak of Deception
++chestarmor = name=Cuirass of the Wastes & *chestarmor_common*
+-chestarmor = name=Cuirass of the Wastes
++chestarmor = name=Demon's Cage & *chestarmor_common*
+-chestarmor = name=Demon's Cage
++chestarmor = name=Demon's Heart & *chestarmor_common*
+-chestarmor = name=Demon's Heart
++chestarmor = name=Demon's Marrow & *chestarmor_common*
+-chestarmor = name=Demon's Marrow
++chestarmor = name=Firebird's Breast & *chestarmor_set*
+-chestarmor = name=Firebird's Breast
+-chestarmor = name=Goldskin
++chestarmor = name=Harness of Truth & *chestarmor_set*
+-chestarmor = name=Harness of Truth
+-chestarmor = name=Heart of Iron
+-chestarmor = name=Heart of the Crashing Wave
++chestarmor = name=Heart of the Light & *chestarmor_common*
+-chestarmor = name=Heart of the Light
++chestarmor = name=Helltooth Tunic & *chestarmor_common*
+-chestarmor = name=Helltooth Tunic
++chestarmor = name=Immortal King's Eternal Reign & *chestarmor_set*
+-chestarmor = name=Immortal King's Eternal Reign
++chestarmor = name=Inna's Vast Expanse & *chestarmor_common*
++chestarmor = name=Inna's Vast Expanse & at_least[3, vita+550, hpreg+6000, sock+3, allres+100, elitedamred+15, life+15]
+-chestarmor = name=Inna's Vast Expanse
++chestarmor = name=Jade Harvester's Peace & *chestarmor_set*
+-chestarmor = name=Jade Harvester's Peace
++chestarmor = name=Mantle of the Rydraelm & *chestarmor_common*
+-chestarmor = name=Mantle of the Rydraelm
++chestarmor = name=Marauder's Carapace & *chestarmor_common*
+-chestarmor = name=Marauder's Carapace
++chestarmor = name=Natalya's Embrace & *chestarmor_common*
+-chestarmor = name=Natalya's Embrace
++chestarmor = name=Raekor's Heart & *chestarmor_common*
++chestarmor = name=Raekor's Heart & at_least[3, main_stat+480, sock+3, skilldmg+14, elitedamred+10]
+-chestarmor = name=Raekor's Heart
++chestarmor = name=Robes of the Rydraelm
++chestarmor = name=Roland's Bearing & *chestarmor_common*
+-chestarmor = name=Roland's Bearing
+-chestarmor = name=Shi Mizu's Haori
++chestarmor = name=Spirit of the Earth & *chestarmor_common*
+-chestarmor = name=Spirit of the Earth
++chestarmor = name=Sunwuko's Soul & *chestarmor_common*
+-chestarmor = name=Sunwuko's Soul
++chestarmor = name=Tal Rasha's Relentless Pursuit & *chestarmor_set*
+-chestarmor = name=Tal Rasha's Relentless Pursuit
++chestarmor = name=The Cloak of the Garwulf & *chestarmor_common*
+-chestarmor = name=The Cloak of the Garwulf
++chestarmor = name=The Inquisitor
+-chestarmor = name=The Shadow's Bane
+-chestarmor = name=Tyrael's Might
++chestarmor = name=Uliana's Heart & *chestarmor_set*
+-chestarmor = name=Uliana's Heart
+;+chestarmor = name=Vyr's Astonishing Aura & *chestarmor_set*
+-chestarmor = name=Vyr's Astonishing Aura
++chestarmor = name=Zunimassa's Marrow & *chestarmor_common*
+-chestarmor = name=Zunimassa's Marrow
+
+; quiver
++quiver = name=Archfiend Arrows & *quiver_common*
++quiver = name=Black Bone Arrows
++quiver = name=Bombardier's Rucksack
++quiver = name=Dead Man's Legacy & *quiver_common*
+-quiver = name=Dead Man's Legacy
++quiver = name=Emimei's Duffel & *quiver_common*
+-quiver = name=Emimei's Duffel
+-quiver = name=Fletcher's Pride
++quiver = name=Flint Ripper Arrowheads
++quiver = name=Holy Point Shot & *quiver_common*
+-quiver = name=Holy Point Shot
++quiver = name=Hunter's Longbox
++quiver = name=Meticulous Bolts & *quiver_common*
+-quiver = name=Meticulous Bolts
++quiver = name=Silver Star Piercers
+-quiver = name=Sin Seekers
++quiver = name=Spines of Seething Hatred & *quiver_common*
+-quiver = name=Spines of Seething Hatred
++quiver = name=The Ninth Cirri Satchel & *quiver_common*
+-quiver = name=The Ninth Cirri Satchel
+
+; pants
++pants = name=Arachyr's Legs & *pants_common*
+-pants = name=Arachyr's Legs
++pants = name=Asheara's Pace & *pants_common*
+-pants = name=Asheara's Pace
++pants = name=Blackthorne's Jousting Mail & *pants_common* & *only_ancient*
+-pants = name=Blackthorne's Jousting Mail
++pants = name=Cain's Habit & *pants_common*
+-pants = name=Cain's Habit
++pants = name=Captain Crimson's Thrust & *pants_common*
+-pants = name=Captain Crimson's Thrust
++pants = name=Cuisses of Akkhan & *pants_common*
+-pants = name=Cuisses of Akkhan
+;+pants = name=Death's Bargain & *pants_common*
+-pants = name=Death's Bargain
++pants = name=Demon's Flesh
++pants = name=Demon's Plate
++pants = name=Demon's Scale
+-pants = name=Depth Diggers
++pants = name=Firebird's Down & *pants_common*
+-pants = name=Firebird's Down
++pants = name=Gehennas
+-pants = name=Hammer Jammers
++pants = name=Helltooth Leg Guards & *pants_common*
+-pants = name=Helltooth Leg Guards
++pants = name=Hexing Pants of Mr. Yan & *pants_common*
+-pants = name=Hexing Pants of Mr. Yan
++pants = name=Immortal King's Stature & *pants_common*
+-pants = name=Immortal King's Stature
++pants = name=Inna's Temperance & *pants_common*
+-pants = name=Inna's Temperance
++pants = name=Jade Harvester's Courage & *pants_common*
+-pants = name=Jade Harvester's Courage
++pants = name=Leg Guards of Mystery & *pants_rare*
+-pants = name=Leg Guards of Mystery
++pants = name=Marauder's Encasement & *pants_common*
+-pants = name=Marauder's Encasement
++pants = name=Natalya's Leggings & *pants_common*
+-pants = name=Natalya's Leggings
+-pants = name=Pox Faulds
++pants = name=Raekor's Breeches & *pants_common*
+-pants = name=Raekor's Breeches
++pants = name=Renewal of the Invoker & *pants_common*
+-pants = name=Renewal of the Invoker
++pants = name=Roland's Determination & *pants_common*
+-pants = name=Roland's Determination
++pants = name=Scales of the Dancing Serpent & *pants_common*
+-pants = name=Scales of the Dancing Serpent
++pants = name=Skelon's Deceit
++pants = name=Sunwuko's Leggings & *pants_common*
+-pants = name=Sunwuko's Leggings
++pants = name=Swamp Land Waders & sdmg_any+19 & ccred+30 & at_least[1, sock+2, vita+480]
+-pants = name=Swamp Land Waders
++pants = name=Tal Rasha's Stride & *pants_common*
+-pants = name=Tal Rasha's Stride
++pants = name=Tasset of the Wastes & *pants_common*
+-pants = name=Tasset of the Wastes
++pants = name=The Shadow's Coil & *pants_common*
+-pants = name=The Shadow's Coil
++pants = name=Towers of the Light & *pants_common*
+-pants = name=Towers of the Light
++pants = name=Unholy Plates & *pants_common*
+-pants = name=Unholy Plates
++pants = name=Uliana's Burden & *pants_common*
+-pants = name=Uliana's Burden
+;+pants = name=Vyr's Fantastic Finery & *pants_common*
+-pants = name=Vyr's Fantastic Finery
+-pants = name=Weight of the Earth
++pants = name=Zunimassa's Cloth & *pants_common*
+-pants = name=Zunimassa's Cloth
+
+; shoulders
++shoulders = name=Arachyr's Mantle & *shoulders_common*
+-shoulders = name=Arachyr's Mantle
++shoulders = name=Asheara's Custodian & *shoulders_common*
+-shoulders = name=Asheara's Custodian
++shoulders = name=Aughild's Power & *shoulders_common*
+-shoulders = name=Aughild's Power
++shoulders = name=Barter Town Pads
++shoulders = name=Born's Privilege & *shoulders_common*
+-shoulders = name=Born's Privilege
+-shoulders = name=Burden of the Invoker
++shoulders = name=Corruption & *shoulders_common*
+-shoulders = name=Corruption
++shoulders = name=Dashing Pauldrons of Despair & *shoulders_rare*
+-shoulders = name=Dashing Pauldrons of Despair
+-shoulders = name=Death Watch Mantle
++shoulders = name=Demon's Aileron
++shoulders = name=Demon's Flight
++shoulders = name=Demon's Wings
++shoulders = name=Firebird's Pinions & *shoulders_common*
+-shoulders = name=Firebird's Pinions
++shoulders = name=Fury of the Ancients & *shoulders_rare*
+-shoulders = name=Fury of the Ancients
++shoulders = name=Helltooth Mantle & *shoulders_common*
+-shoulders = name=Helltooth Mantle
++shoulders = name=Homing Pads & *shoulders_common*
+-shoulders = name=Homing Pads
++shoulders = name=Infernal Pauldrons
++shoulders = name=Jade Harvester's Joy & *shoulders_rare*
+-shoulders = name=Jade Harvester's Joy
++shoulders = name=Lefebvre's Soliloquy & *shoulders_rare*
+-shoulders = name=Lefebvre's Soliloquy
++shoulders = name=Mantle of Channeling & *shoulders_rare*
+-shoulders = name=Mantle of Channeling
+-shoulders = name=Mantle of the Upside-Down Sinners
++shoulders = name=Marauder's Spines & *shoulders_rare*
+-shoulders = name=Marauder's Spines
++shoulders = name=Mountain of the Light & *shoulders_common*
+-shoulders = name=Mountain of the Light
++shoulders = name=Pauldrons of Akkhan & *shoulders_common*
+-shoulders = name=Pauldrons of Akkhan
++shoulders = name=Pauldrons of the Skeleton King & *shoulders_common*
+-shoulders = name=Pauldrons of the Skeleton King
++shoulders = name=Pauldrons of the Wastes & *shoulders_common*
+-shoulders = name=Pauldrons of the Wastes
++shoulders = name=Profane Pauldrons & *shoulders_common*
+-shoulders = name=Profane Pauldrons
++shoulders = name=Raekor's Burden & *shoulders_common*
+-shoulders = name=Raekor's Burden
++shoulders = name=Roland's Mantle & *shoulders_common*
+-shoulders = name=Roland's Mantle
++shoulders = name=Seven Sins
+-shoulders = name=Spaulders of Zakara
+-shoulders = name=Spires of the Earth
++shoulders = name=Sunwuko's Balance & *shoulders_rare*
+-shoulders = name=Sunwuko's Balance
++shoulders = name=The Shadow's Burden & *shoulders_common*
+-shoulders = name=The Shadow's Burden
++shoulders = name=Uliana's Strength & *shoulders_common*
+-shoulders = name=Uliana's Strength
++shoulders = name=Unsanctified Shoulders & *shoulders_common*
+-shoulders = name=Unsanctified Shoulders
++shoulders = name=Vile Ward & *shoulders_common*
+-shoulders = name=Vile Ward
++shoulders = name=Vyr's Proud Pauldrons & *shoulders_common*
+-shoulders = name=Vyr's Proud Pauldrons
+
+; boots
++boots = name=Arachyr's Stride & *boots_common*
+-boots = name=Arachyr's Stride
++boots = name=Asheara's Finders & *boots_common*
+-boots = name=Asheara's Finders
++boots = name=Asheara's Lock
++boots = name=Asheara's Tracks
++boots = name=Blackthorne's Spurs & *boots_common* & *only_ancient*
+-boots = name=Blackthorne's Spurs
++boots = name=Board Walkers
+-boots = name=Boj Anglers
++boots = name=Boots of Disregard & *boots_common*
+-boots = name=Boots of Disregard
++boots = name=Cain's Travelers & *boots_common*
+-boots = name=Cain's Travelers
++boots = name=Captain Crimson's Waders & *boots_common*
+-boots = name=Captain Crimson's Waders
++boots = name=Eight-Demon Boots & *boots_common*
+-boots = name=Eight-Demon Boots
+;+boots = name=Fire Walkers & *boots_common*
+-boots = name=Fire Walkers
++boots = name=Firebird's Tarsi & *boots_rare*
+-boots = name=Firebird's Tarsi
++boots = name=Foundation of the Earth & *boots_common*
+-boots = name=Foundation of the Earth
++boots = name=Foundation of the Light & *boots_common*
+-boots = name=Foundation of the Light
++boots = name=Hell Walkers & *boots_common*
+-boots = name=Hell Walkers
++boots = name=Helltooth Greaves & *boots_common*
+-boots = name=Helltooth Greaves
+-boots = name=Ice Climbers
++boots = name=Illusory Boots & *boots_common*
+-boots = name=Illusory Boots
++boots = name=Inna's Sandals & *boots_common*
+-boots = name=Inna's Sandals
++boots = name=Immortal King's Stride & *boots_common*
+-boots = name=Immortal King's Stride
+-boots = name=Irontoe Mudsputters
++boots = name=Jade Harvester's Swiftness & *boots_rare*
+-boots = name=Jade Harvester's Swiftness
++boots = name=Lost Boys
+-boots = name=Lut Socks
++boots = name=Marauder's Treads & *boots_common*
+-boots = name=Marauder's Treads
++boots = name=Natalya's Bloody Footprints & *boots_common*
+-boots = name=Natalya's Bloody Footprints
++boots = name=Nilfur's Boast & *boots_rare*
+-boots = name=Nilfur's Boast
++boots = name=Raekor's Striders & *boots_common*
+-boots = name=Raekor's Striders
++boots = name=Rivera Dancers & *boots_common*
+-boots = name=Rivera Dancers
++boots = name=Roland's Stride & *boots_common*
+-boots = name=Roland's Stride
++boots = name=Sabaton of the Wastes & *boots_common*
+-boots = name=Sabaton of the Wastes
++boots = name=Sabatons of Akkhan & *boots_common*
+-boots = name=Sabatons of Akkhan
++boots = name=Sage's Passage & *boots_common*
+-boots = name=Sage's Passage
++boots = name=Seismic Treads
++boots = name=Striders of Destiny & *boots_common*
+-boots = name=Striders of Destiny
++boots = name=The Crudest Boots & *boots_common*
+-boots = name=The Crudest Boots
+-boots = name=The Shadow's Heels
++boots = name=Uliana's Destiny & *boots_common*
+-boots = name=Uliana's Destiny
++boots = name=Vyr's Swaggering Stance & *boots_common*
+-boots = name=Vyr's Swaggering Stance
++boots = name=Zeal of the Invoker & *boots_common*
+-boots = name=Zeal of the Invoker
++boots = name=Zunimassa's Trail & *boots_common*
+-boots = name=Zunimassa's Trail
+
+; ring
++ring = quality=9 & at_least[3, main_stat+400, crit+5, critdmg+40, sock+1] & *only_ancient*
++ring = name=Arcstone & *ring_common*
+-ring = name=Arcstone
++ring = name=Ashnagarr's Blood Ring & *ring_common*
+-ring = name=Ashnagarr's Blood Ring
++ring = name=Avarice Band & *ring_common*
+-ring = name=Avarice Band
++ring = name=Band of Fallen Heroes
++ring = name=Band of Hollow Whispers & *ring_common*
+-ring = name=Band of Hollow Whispers
++ring = name=Band of Might & *ring_rare*
+-ring = name=Band of Might
++ring = name=Band of the Rue Chambers & *ring_common*
+-ring = name=Band of the Rue Chambers
++ring = name=Broken Promises & *ring_common*
+-ring = name=Broken Promises
++ring = name=Bul-Kathos's Wedding Band & *ring_common*
+-ring = name=Bul-Kathos's Wedding Band
++ring = name=Convention of Elements & *ring_common*
+-ring = name=Convention of Elements
++ring = name=Elusive Ring & *ring_rare*
+-ring = name=Elusive Ring
++ring = name=Eternal Union & *ring_rare*
+-ring = name=Eternal Union
++ring = name=Focus & *ring_common*
+-ring = name=Focus
++ring = name=Gamuel's Deceit
++ring = name=Hellfire Ring & *ring_common*
++ring = name=Hellfire Ring & at_least[3, hpreg+6000, cdred+7, sock+1, vita+400]
+-ring = name=Hellfire Ring
++ring = name=Halo of Arlyse & *ring_rare*
+-ring = name=Halo of Arlyse
++ring = name=Hierophant's Seal
+-ring = name=Justice Lantern
++ring = name=Krede's Flame & *ring_common*
+-ring = name=Krede's Flame
++ring = name=Leoric's Signet & *ring_rare*
+-ring = name=Leoric's Signet
++ring = name=Litany of the Undaunted & *ring_rare*
+-ring = name=Litany of the Undaunted
++ring = name=Manald Heal & *ring_common*
+-ring = name=Manald Heal
++ring = name=Nagelring & *ring_common*
+-ring = name=Nagelring
++ring = name=Natalya's Reflection & *ring_common*
+-ring = name=Natalya's Reflection
++ring = name=Obsidian Ring of the Zodiac & ias+7 & crit+5.5 & cdred+7
+-ring = name=Obsidian Ring of the Zodiac
++ring = name=Oculus Ring & ias+9 & elitedamred+15 & *only_ancient*
+-ring = name=Oculus Ring
++ring = name=Pandemonium Loop & *ring_common*
+-ring = name=Pandemonium Loop
++ring = name=Puzzle Ring & *ring_common*
+-ring = name=Puzzle Ring
++ring = name=Rechel's Ring of Larceny & *ring_common*
+-ring = name=Rechel's Ring of Larceny
++ring = name=Restraint & *ring_common*
+-ring = name=Restraint
++ring = name=Ring of Emptiness & *ring_common*
+-ring = name=Ring of Emptiness
++ring = name=Ring of Royal Grandeur & *ring_common*
+-ring = name=Ring of Royal Grandeur
++ring = name=Rogar's Huge Stone & *ring_rare*
+-ring = name=Rogar's Huge Stone
++ring = name=Screaming Chain & *ring_common*
+-ring = name=Screaming Chain
++ring = name=Skull Grasp & *ring_common*
+-ring = name=Skull Grasp
++ring = name=Stolen Ring & *ring_common*
+-ring = name=Stolen Ring
++ring = name=Stone of Jordan & sdmg_any+18 & at_least[1, crit+4.5, sock+1]
+-ring = name=Stone of Jordan
++ring = name=The Compass Rose & *ring_common*
+-ring = name=The Compass Rose
++ring = name=The Short Man's Finger & *ring_rare*
+-ring = name=The Short Man's Finger
++ring = name=The Tall Man's Finger & *ring_rare*
+-ring = name=The Tall Man's Finger
++ring = name=The Wailing Host & *ring_rare*
+-ring = name=The Wailing Host
++ring = name=Unity & *ring_common*
+-ring = name=Unity
++ring = name=Wanderlust & *ring_common*
+-ring = name=Wanderlust
++ring = name=Wyrdward & *ring_common*
+-ring = name=Wyrdward
++ring = name=Zunimassa's Pox & *ring_common*
+-ring = name=Zunimassa's Pox
+
+; mojo
++mojo = name=Bitterness
+-mojo = name=Gazing Demise
+-mojo = name=Henri's Perquisition
++mojo = name=Homunculus & *mojo_common*
+-mojo = name=Homunculus
+-mojo = name=Manajuma's Gory Fetch
++mojo = name=Manajuma's Ritual Prize
++mojo = name=Shukrani's Triumph & *mojo_common*
+-mojo = name=Shukrani's Triumph
++mojo = name=Sorrowful Countenance
++mojo = name=Spite
++mojo = name=Thing of the Deep & *mojo_common*
+-mojo = name=Thing of the Deep
++mojo = name=Uhkapian Serpent & *mojo_common*
+-mojo = name=Uhkapian Serpent
++mojo = name=Vile Hive & *mojo_common*
+-mojo = name=Vile Hive
++mojo = name=Wilken's Reach & *mojo_common*
+-mojo = name=Wilken's Reach
++mojo = name=Zunimassa's String of Skulls & *mojo_common*
+-mojo = name=Zunimassa's String of Skulls
+
+; source
+-source = name=Chantodo's Force
++source = name=Cosmic Strand & *source_common*
+-source = name=Cosmic Strand
++source = name=Etched Sigil & *source_common*
+-source = name=Etched Sigil
++source = name=Firebird's Eye & *source_rare*
+-source = name=Firebird's Eye
++source = name=Heart of Darkness
+-source = name=Light of Grace
++source = name=Mirrorball & *source_common*
+-source = name=Mirrorball
++source = name=Myken's Ball of Hate & *source_common*
+-source = name=Myken's Ball of Hate
++source = name=Orb of Infinite Depth & *source_rare*
+-source = name=Orb of Infinite Depth
++source = name=Primordial Soul & *source_rare*
+-source = name=Primordial Soul
++source = name=Singularity
++source = name=Tal Rasha's Unwavering Glare & *source_common*
+-source = name=Tal Rasha's Unwavering Glare
++source = name=The Oculus & *source_common*
+-source = name=The Oculus
++source = name=Triumvirate & *source_common*
+-source = name=Triumvirate
++source = name=Winter Flurry & *source_common*
+-source = name=Winter Flurry
+
+;-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+; KEEP EVERYTHING NOT INCLUDED IN THE LIST ABOVE
+all = quality+9
+;-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*

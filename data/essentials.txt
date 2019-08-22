@@ -1,0 +1,165 @@
+; see description in pickit_readme.txt
+
+; substitution rules
+[only_ancient] = ancient_rank+1
+[chestarmor_common] = at_least[3, main_stat+480, vita+480, sock+3, allres+90, elitedamred+15] & ancient_rank+1
+[chestarmor_set] = at_least[3, main_stat+400, vita+400, sock+3, allres+90, elitedamred+15] & ancient_rank+1
+[helm_common] = main_stat+700 & at_least[2, sock+1, crit+6, vita+700] & ancient_rank+1
+[helm_rare] = main_stat+600 & at_least[1, sock+1, crit+5, vita+600]
+[helm_ultra] = quality+9
+[belt_common] = main_stat+480 & vita+480 & at_least[2, life+14, allres+86, skilldmg+15, cdred+7] & ancient_rank+1
+[belt_rare] = main_stat+400 & vita+400 & at_least[1, life+14, allres+86, skilldmg+14, cdred+7]
+[belt_ultra] = quality+9
+[gloves_crap] = main_stat+700 & at_least[2, vita+700, crit+9, critdmg+45, ias+7] & ancient_rank+1
+[gloves_common] = main_stat+700 & at_least[2, vita+700, crit+9, critdmg+45, ias+7] & ancient_rank+1
+[gloves_rare] = main_stat+620 & at_least[2, vita+620, crit+8, critdmg+40, ias+7]
+[gloves_noias] = main_stat+700 & at_least[2, vita+700, crit+8, critdmg+40]
+[gloves_ultra] = quality+9
+[bracers_common] = at_least[3, main_stat+450, sdmg_any+19, crit+5, vita+450] & ancient_rank+1
+[bracers_rare] = at_least[3, main_stat+400, sdmg_any+18, crit+5, vita+400]
+[bracers_ultra] = quality+9
+[pants_common] = at_least[3, main_stat+480, sock+2, vita+480, allres+80] & ancient_rank+1
+[pants_rare] = at_least[3, main_stat+400, sock+2, vita+400, allres+80]
+[pants_ultra] = quality+9
+[shoulders_common] = main_stat+480 & vita+480 & at_least[2, allres+86, skilldmg+15, life+14, cdred+7] & ancient_rank+1
+[shoulders_rare] = main_stat+400 & vita+400 & at_least[2, allres+86, skilldmg+15, life+14, cdred+7]
+[shoulders_ultra] = quality+9
+[boots_common] = at_least[3, main_stat+450, vita+450, allres+90, move+12, hpreg+7000] & ancient_rank+1
+[boots_rare] = at_least[3, main_stat+400, vita+400, allres+90, move+12, hpreg+7000]
+[boots_ultra] = quality+9
+[mojo_common] = dps+390 & vita+700
+[mojo_rare] = dps+370 & vita+650
+[mojo_ultra] = quality+9
+[source_common] = dps+400 & int+550 & crit+9 & at_least[1, apoc+4, vita+600]
+[source_rare] = dps+370 & int+500 & crit+9 & at_least[1, apoc+4, vita+600]
+[source_ultra] = quality+9
+[quiver_common] = main_stat+700 & vita+700 & ias+19 & at_least[1, crit+9, sdmg_any+18]
+[amulet_common] = at_least[3, sdmg_any+19, crit+9, critdmg+90, sock+1]
+[amulet_rare] = at_least[3, sdmg_any+17, crit+8, critdmg+80, sock+1]
+[amulet_ultra] = quality+9
+[ring_common] = at_least[3, main_stat+400, sock+1, crit+5, critdmg+40, cdred+8] & ancient_rank+1
+[ring_rare] = at_least[3, main_stat+400, sock+1, crit+5, critdmg+40, dps+1, cdred+8]
+[bow_common] = DPS+3100 & ancient_rank+1
+[bow_rare] = DPS+2300 & ancient_rank+1
+[bow_ultra] = quality+9 & ancient_rank+1
+[crossbow_common] = DPS+3100 & ancient_rank+1
+[crossbow_rare] = DPS+2300 & ancient_rank+1
+[crossbow_ultra] = quality+9 & ancient_rank+1
+
+; keep all ancient items
+; all = ancient_rank+1
+
+; keep uber keys and organs
+uber_keys = quality+1
+uber_organs = quality+1
+uber_others = quality+1
+
+; keep all plan and gem design
+plans = quality+1
+
+; dye
+dye = quality+1
+
+; All not-cubed, but cube-able items
+; all = can_cubed=1
+
+; Common Debris, Exquisite Essence, Iridescent Tear, Fiery Brimstone, Demonic Essence
+craftmats_t4 = quality+1
+
+; Reusable Parts, Arcane Dust, Veiled Crystal, Forgotten Soul, Death's Breath, and all legendary crafting materials like Frozen Blood, Captured Nightmare, etc
+craftmats_x1 = quality+1
+
+; Bounty-specific crafting materials
+craftmats_bounty = quality+1
+
+; Gem Essences
+craftmats_gem = quality+1
+
+; Scholarly Writings
+crafttomes_x1 = quality+1
+
+; regular gems (8=flawless square, 15=marquise, 16=imperial)
+gems = gem_quality+16
+
+; legendary gems
+gems_unique = quality+1
+
+; Rift Keystone Fragment, Greater Rift Keystone
+riftkeystone = quality+1
+
+; Ramaladni's Gift
+consumable = quality+1
+
+; Horadric Cache, Greater Horadric Cache, Bonus Cache, World Cache
+horadriccache = quality+1
+bonuscache = quality+1
+worldcache = quality+1
+
+; Bottomless potions
+; potions = quality+9
+
+; Scroll of Mysteries
+bountyscroll = quality+1
+
+; promo stuff like Angelic Wings, Blade Wings
+promo = quality+1
+
+; pony-materials
+pony = quality+1
+
+; these filters apply to rares only:
+
+;amulet		= quality=8 & at_least[3, main_stat+525, sdmg_any+15, crit+7, critdmg+80, ias+6]
+;amulet		= quality=8 & ias+6 & at_least[1, dex+525, crit+8] & vita+525 & at_least[1, allres+86, vita+525]
+
+;ring		= quality=8 & main_stat+350 & ias+5 & crit+5 & critdmg+40
+;ring		= quality=8 & at_least[3, main_stat+350, ias+5, crit+5, critdmg+40]
+;ring		= quality=8 & at_least[2, main_stat+350, ias+5, crit+5, critdmg+40]					& at_least[1, vita+525, skilldmg+13, areadmg+12, sdmg_any+15, rescostred+7, cdred+7]
+
+;bracers		= quality=8 & at_least[3, main_stat+400, vita+400, crit+5, sdmg_any+15]
+
+;shoulders	= quality=8 & at_least[3, main_stat+400, vita+400, allres+86, skilldmg+15]
+
+;belts		= quality=8 & at_least[3, main_stat+400, vita+400, life+14, allres+86, skilldmg+15]
+
+;boots		= quality=8 & main_stat+400 & vita+400 & allres+86 & skilldmg+13
+;boots		= quality=8 & at_least[3, main_stat+400, vita+400, skilldmg+13]						& at_least[2, pickup+2, hpglobe+16000, lok+4000]
+;boots		= quality=8 & at_least[2, main_stat+400, vita+400, skilldmg+13]						& at_least[1, loh+600, allres+86, areadmg+12, sdmg_any+15, ias+5, crit+1, critdmg+20, rescostred+6, cdred+6] & at_least[2, pickup+2, hpglobe+16000, lok+4000]
+
+;chestarmors	= quality=8 & at_least[3, main_stat+400, vita+400, sock+3]							& at_least[2, pickup+2, hpglobe+14000, lok+4000]
+;chestarmors	= quality=8 & at_least[2, main_stat+400, vita+400, sock+3]							& at_least[1, loh+600, skilldmg+13, areadmg+12, sdmg_any+15, ias+5, crit+1, critdmg+20, rescostred+6, cdred+6] & at_least[2, pickup+2, hpglobe+16000, lok+4000]
+
+;gloves		= quality=8 & main_stat+550 & vita+550 & crit+8 & critdmg+40
+;gloves		= quality=8 & at_least[3, main_stat+600, ias+5, crit+8, critdmg+40, sdmg_any+15]
+
+;helms		= quality=8 & at_least[3, main_stat+600, crit+5, sock+1, skilldmg+15]
+
+;pants		= quality=8 & main_stat+400 & vita+400 & sock+2 & skilldmg+13
+;pants		= quality=8 & at_least[3, main_stat+400, sock+2, skilldmg+13]
+;pants		= quality=8 & at_least[2, main_stat+400, sock+2, skilldmg+13]				& at_least[1, life+12, vita+400, move+12, loh+600, ias+5, crit+1, critdmg+20]
+
+;1h			= quality=8 & dps+2000 & at_least[2, sock+1, areadmg+10, sdmg_any+10, skilldmg+13, loh+1800, main_stat+600, vita+600, critdmg+30, elitedam+15, rescostred+8]
+;1h			= quality=8 & dps+2180 & at_least[1, sock+1, areadmg+10, sdmg_any+10, skilldmg+13, loh+1800, main_stat+600, vita+600, critdmg+30, elitedam+15, rescostred+8]
+
+;-2h			= at_least[1, quality=6, quality=7, quality=8]
+
+;source		= quality=8 & dps+300 & int+550 & crit+9 & at_least[1, apoc+4, vita+600] & skilldmg+13
+;source		= quality=8 & dps+300 & at_least[3, int+600, crit+7, skilldmg+15, vita+600]
+;source		= quality=8 & dps+300 & at_least[2, int+600, crit+7, skilldmg+15, vita+600]		& at_least[1, rescostred+7, cdred+7]
+
+;mojo		= quality=8 & dps+300 & at_least[3, main_stat+600, crit+7, vita+450]
+;mojo		= quality=8 & dps+300 & at_least[2, main_stat+600, crit+7, vita+450] & at_least[1, life+10, allres+70, skilldmg+13, sdmg_any+7, sock+1]
+
+; shields, crusader shields
+;offhands	= quality=8 & t_block+20 & str+550 & vita+550
+
+;quiver		= quality=8 & ias+17 & dex+350 & crit+8 & at_least[2, life+10, vita+450, skilldmg+10, sock+1]
+;quiver		= quality=8 & ias+17 & dex+350 & vita+450 & at_least[2, allres+70, e_armor+200, life+10, crit+8]
+
+;follower_e	= int+600 & vita+600 & at_least[2, allres+86, e_armor+200, loh+2000, life+é10]
+;follower_t	= str+600 & vita+600 & at_least[2, allres+86, e_armor+200, loh+2000, life+10]
+;follower_s	= dex+600 & vita+600 & at_least[2, allres+86, e_armor+200, loh+2000, life+10]
+
+-follower_e	= quality+9
+-follower_t	= quality+9
+-follower_s	= quality+9

@@ -1,0 +1,1316 @@
+{
+	"1": [
+		"+x Strength",
+		"Strength",
+		"STR+1",
+		"Str"
+	],
+	"2": [
+		"+x Dexterity",
+		"Dexterity",
+		"DEX+1",
+		"Dex"
+	],
+	"3": [
+		"+x Intelligence",
+		"Intelligence",
+		"INT+1",
+		"Int"
+	],
+	"4": [
+		"+x Vitality",
+		"Vitality",
+		"VITA+1",
+		"Vit"
+	],
+	"5": [
+		"Socket",
+		"Socket",
+		"SOCK+1",
+		"Sock"
+	],
+	"6": [
+		"+x% Damage",
+		"Damage",
+		"DMG_PBONUS+1",
+		"Dmg"
+	],
+	"7": [
+		"+x - # Damage (min)",
+		"Minimum Damage",
+		"DMG_LO+1, OFFH_DMG_LO+1",
+		"MinDmg"
+	],
+	"8": [
+		"+# - x Damage (max)",
+		"Maximum Damage",
+		"DMG_HI+1, OFFH_DMG_ADD+1",
+		"MaxDmg"
+	],
+	"9": [
+		"+x - # Elemental Damage (min)",
+		"Minimum Elemental Damage",
+		"DMG_LO+1, OFFH_DMG_LO+1",
+		"MinEleDmg"
+	],
+	"10": [
+		"+# - x Elemental Damage (max)",
+		"Maximum Elemental Damage",
+		"DMG_HI+1, OFFH_DMG_ADD+1",
+		"MaxEleDmg"
+	],
+	"11": [
+		"+# - x Elemental Damage (max)",
+		"Max Elemental Damage",
+		"DMG_HI+1, OFFH_DMG_ADD+1",
+		"MxElDg"
+	],
+	"12": [
+		"Critical Hit Chance Increased by x%",
+		"Critical Hit Chance",
+		"CRIT+1",
+		"CritChc"
+	],
+	"13": [
+		"Critical Hit Damage Increased by x%",
+		"Critical Hit Damage",
+		"CRITDMG+1",
+		"CritDmg"
+	],
+	"14": [
+		"Increases Attack Speed by x%",
+		"Attack Speed",
+		"AS_EXTR+1, IAS+1",
+		"IAS"
+	],
+	"15": [
+		"x Attacks per Second",
+		"not_imp",
+		"AS_WEAP+1",
+		"ApS"
+	],
+	"16": [
+		"Increases damage against elites by x%",
+		"Damage against Elites",
+		"ELITEDAM+1",
+		"EltDmg"
+	],
+	"17": [
+		"Chance to Deal x% Area Damage on Hit",
+		"Area Damage",
+		"AREADMG+1",
+		"Area"
+	],
+	"18": [
+		"+x Thorns Damage",
+		"Thorns",
+		"THORNS+1",
+		"Thorns"
+	],
+  "19": [
+		"Elemental skills deal x% more damage",
+		"not_imp",
+		"SDMG_ANY+1",
+		"EleDmg"
+	],
+	"20": [
+		"Physical skills deal x% more damage",
+		"Physical Skills Damage%",
+		"SDMG_PH+1",
+		"PhyDmg"
+	],
+	"21": [
+		"Fire skills deal x% more damage",
+		"Fire Skills Damage",
+		"SDMG_F+1",
+		"FirDmg"
+	],
+	"22": [
+		"Cold skills deal x% more damage",
+		"Cold Skills Damage",
+		"SDMG_C+1",
+		"ColDmg"
+	],
+	"23": [
+		"Lightning skills deal x% more damage",
+		"Lightning Skills Damage",
+		"SDMG_L+1",
+		"LghDmg"
+	],
+	"24": [
+		"Poison skills deal x% more damage",
+		"Poison Skills Damage",
+		"SDMG_P+1",
+		"PoiDmg"
+	],
+	"25": [
+		"Arcane skills deal x% more damage",
+		"Arcane Skill Damage",
+		"SDMG_A+1",
+		"ArcDmg"
+	],
+	"26": [
+		"Holy skills deal x% more damage",
+		"Holy Skills Damage",
+		"SDMG_H+1",
+		"HlyDmg"
+	],
+	"27": [
+		"x% chance to inflict Bleed for x% weapon damage over 5 seconds",
+		"Chance to Inflict Bleed",
+		"not_imp",
+		"Bleed"
+	],
+	"28": [
+		"x% Chance to Blind on Hit",
+		"Chance to Blind",
+		"not_imp",
+		"Blind"
+	],
+	"29": [
+		"x% Chance to Chill on Hit",
+		"Chance to Chill",
+		"not_imp",
+		"Chill"
+	],
+	"30": [
+		"x% Chance to Fear on Hit",
+		"Chance to Fear",
+		"not_imp",
+		"Fear"
+	],
+	"31": [
+		"x% Chance to Freeze on Hit",
+		"Chance to Freeze",
+		"not_imp",
+		"Freeze"
+	],
+	"32": [
+		"x% Chance to Immobolize on Hit",
+		"Chance to Immobolize",
+		"not_imp",
+		"Immob"
+	],
+	"33": [
+		"x% Chance to Knockback on Hit",
+		"Chance to Knockback",
+		"not_imp",
+		"Knkbck"
+	],
+	"34": [
+		"x% Chance to Slow on Hit",
+		"Chance to Slow",
+		"not_imp",
+		"Slow"
+	],
+	"35": [
+		"x% Chance to Stun on Hit",
+		"Chance to Stun",
+		"not_imp",
+		"Stun"
+	],
+	"36": [
+		"+x% Life",
+		"Life",
+		"LIFE+1",
+		"Life"
+	],
+	"37": [
+		"+x Life per Hit",
+		"Life on Hit",
+		"LOH+1",
+		"LoH"
+	],
+	"38": [
+		"Regenerates x Life per Second",
+		"Life per Second",
+		"HPREG+1",
+		"LpS"
+	],
+	"39": [
+		"+x Life after Each Kill",
+		"not_imp",
+		"LOK+1",
+		"LpK"
+	],
+	"40": [
+		"x% of Damage Dealt Is Converted to Life",
+		"not_imp",
+		"LSTEAL+1",
+		"LifStl"
+	],
+	"41": [
+		"Gain x Life per Fury Spent",
+		"Life per Fury Spent",
+		"not_imp",
+		"LpFS"
+	],
+	"42": [
+		"Health Globes and Potions Grant +x Life",
+		"Extra HP from Globes",
+		"HPGLOBE+1",
+		"Globe"
+	],
+	"43": [
+		"+x Armor",
+		"Bonus Armor",
+		"E_ARMOR+1",
+		"Armor"
+	],
+	"44": [
+		"+x% Chance to Block",
+		"Block Chance",
+		"E_BLOCK+1",
+		"Block"
+	],
+	"45": [
+		"+x Resistance to All Elements",
+		"Resistance to All",
+		"ALLRES+1",
+		"AllRes"
+	],
+  "46": [
+		"+x Elemental Resistance",
+		"not_imp",
+		"ANYRES+1",
+		"AnyRes"
+	],
+	"47": [
+		"+x Physical Resistance",
+		"Physical Resistance",
+		"PH_RES+1",
+		"PhyRes"
+	],
+	"48": [
+		"+x Fire Resistance",
+		"Fire Resistance",
+		"F_RES+1",
+		"FirRes"
+	],
+	"49": [
+		"+x Cold Resistance",
+		"Cold Resistance",
+		"C_RES+1",
+		"ColRes"
+	],
+	"50": [
+		"+x Lightning Resistance",
+		"Lightning Resistance",
+		"L_RES+1",
+		"LghRes"
+	],
+	"51": [
+		"+x Poison Resistance",
+		"Poison Resistance",
+		"P_RES+1",
+		"PoiRes"
+	],
+	"52": [
+		"+x Arcane/Holy Resistance",
+		"Arcane/Holy Resist",
+		"A_RES+1",
+		"ArcRes"
+	],
+	"53": [
+		"Reduced damage from melee attacks by x%",
+		"Reduced Damage from Melee",
+		"not_imp",
+		"MelRed"
+	],
+	"54": [
+		"Reduced damage from ranged attacks by x%",
+		"Reduced Damage from Ranged",
+		"not_imp",
+		"RngRed"
+	],
+	"55": [
+		"Reduced damage from elites by x%",
+		"Reduced Damage from Elites",
+		"ELITEDAMRED+1",
+		"EltRed"
+	],
+	"56": [
+		"Reduces damage from Cold attacks by x%",
+		"Reduced Damage from Cold",
+		"not_imp",
+		"ColRed"
+	],
+	"57": [
+		"Reduces duration of control impairing effects by x%",
+		"Crowd Control Reduction",
+		"CCRED+1",
+		"CCRed"
+	],
+	"58": [
+		"Reduces all resource costs by x%",
+		"Reduced Resource Cost",
+		"RESCOSTRED+1",
+		"CostRed"
+	],
+	"59": [
+		"+x% Movement Speed",
+		"Movement Speed",
+		"MOVE+1",
+		"Movem"
+	],
+	"60": [
+		"Reduces cooldown of all skills by x%",
+		"Skill Cooldown Reduction",
+		"CDRED+1",
+		"CDR"
+	],
+	"61": [
+		"Increases Gold and Health Pickup by x Yards",
+		"Pickup Radius",
+		"PICKUP+1",
+		"Pickup"
+	],
+	"62": [
+		"Critical Hits grant x Arcane Power",
+		"Arcane Power on Crit !",
+		"APOC+1",
+		"APoC"
+	],
+  "63": [
+    "+x Maximum Mana",
+    "not_imp",
+    "MAX_MANA+1",
+    "MaxMana"
+  ],
+  "64": [
+    "+x Maximum Arcane Power",
+    "not_imp",
+    "MAX_AP+1",
+    "MaxAP"
+  ],
+  "65": [
+    "+x Maximum Fury",
+    "Max Fury",
+    "MAX_FURY+1",
+    "MaxFry"
+  ],
+  "66": [
+    "+x Maximum Spirit",
+    "not_imp",
+    "MAX_SPIRIT+1",
+    "MaxSpr"
+  ],
+  "67": [
+    "+x Maximum Discipline",
+    "not_imp",
+    "MAX_DISC+1",
+    "MaxDisc"
+  ],
+  "68": [
+    "+x Maximum Wrath",
+    "not_imp",
+    "MAX_WRATH+1",
+    "MaxWra"
+  ],
+  "69": [
+    "Increases Mana Regeneration by x per Second",
+    "not_imp",
+    "REG_MANA+1",
+    "ManaReg"
+  ],
+  "70": [
+    "Increases Spirit Regeneration by x per Second",
+    "not_imp",
+    "REG_SPIRIT+1",
+    "SprReg"
+  ],
+  "71": [
+    "Increases Hatred Regeneration by x per Second",
+    "not_imp",
+    "REG_HATRED+1",
+    "HatReg"
+  ],
+  "72": [
+    "Increases Wrath Regeneration by x per Second",
+    "not_imp",
+    "REG_WRATH+1",
+    "WraReg"
+  ],
+	"73": [
+		"Level Requirement Reduced by x",
+		"Reduced Level Requirement",
+		"LVLREQRED+1",
+		"LvlRed"
+	],
+	"74": [
+		"+x% Experience",
+		"Bonus Experience x%",
+		"not_imp",
+		"Exp%"
+	],
+	"75": [
+		"Monster kills grant +x experience",
+		"Bonus Experience",
+		"EXPBONUS+1",
+		"Exp"
+	],
+	"76": [
+		"+x% Extra Gold from Monsters",
+		"Gold Find",
+		"GF+1",
+		"GF"
+	],
+	"77": [
+		"x% Better Chance of Finding Magical Items",
+		"Magic Find",
+		"MF+1",
+		"MF"
+	],
+	"78": [
+		"Increases Whirlwind Damage by x%",
+		"Skill: Whirlwind",
+		"SKILLDMG+1",
+		"SkWW"
+	],
+	"79": [
+		"Increases Bash Damage by x%",
+		"Skill: Bash",
+		"SKILLDMG+1",
+		"SkBsh"
+	],
+	"80": [
+		"Increases Hammer of the Ancients Damage by x%",
+		"Skill: Hammer of the Ancients",
+		"SKILLDMG+1",
+		"SkHotA"
+	],
+	"81": [
+		"Increases Cleave Damage by x%",
+		"Skill: Cleave",
+		"SKILLDMG+1",
+		"SkClv"
+	],
+	"82": [
+		"Increases Ground Stomp Damage by x%",
+		"Skill: Ground Stomp",
+		"SKILLDMG+1",
+		"SkGS"
+	],
+	"83": [
+		"Increases Rend Damage by x%",
+		"Skill: Rend",
+		"SKILLDMG+1",
+		"SkRnd"
+	],
+	"84": [
+		"Increases Leap Damage by x%",
+		"Skill: Leap",
+		"SKILLDMG+1",
+		"SkLp"
+	],
+	"85": [
+		"Increases Overpower Damage by x%",
+		"Skill: Overpower",
+		"SKILLDMG+1",
+		"SkOp"
+	],
+	"86": [
+		"Increases Frenzy Damage by x%",
+		"Skill: Frenzy",
+		"SKILLDMG+1",
+		"SkFrz"
+	],
+	"87": [
+		"Increases Seismic Slam Damage by x%",
+		"Skill: Seismic Slam",
+		"SKILLDMG+1",
+		"SkSSl"
+	],
+	"88": [
+		"Increases Revenge Damage by x%",
+		"Skill: Revenge",
+		"SKILLDMG+1",
+		"SkRev"
+	],
+	"89": [
+		"Increases Threatening Shout Damage by x%",
+		"Skill: Threatening Shout",
+		"SKILLDMG+1",
+		"SkTS"
+	],
+	"90": [
+		"Increases Sprint Damage by x%",
+		"Skill: Sprint",
+		"SKILLDMG+1",
+		"SkSpr"
+	],
+	"91": [
+		"Increases Weapon Throw Damage by x%",
+		"Skill: Weapon Throw",
+		"SKILLDMG+1",
+		"SkWT"
+	],
+	"92": [
+		"Increases Earthquake Damage by x%",
+		"Skill: Earthquake",
+		"SKILLDMG+1",
+		"SkEq"
+	],
+	"93": [
+		"Increases Furious Charge Damage by x%",
+		"Skill: Furious Charge",
+		"SKILLDMG+1",
+		"SkFC"
+	],
+	"94": [
+		"Increases Ignore Pain Damage by x%",
+		"Skill: Ignore Pain",
+		"SKILLDMG+1",
+		"SkIP"
+	],
+	"95": [
+		"Increases Battle Rage Damage by x%",
+		"Skill: Battle Rage",
+		"SKILLDMG+1",
+		"SkBR"
+	],
+	"96": [
+		"Increases Call of the Ancients Damage by x%",
+		"Skill: Call of the Ancients",
+		"SKILLDMG+1",
+		"SkCotA"
+	],
+	"97": [
+		"Increases Ancient Spear Damage by x%",
+		"Skill: Ancient Spear",
+		"SKILLDMG+1",
+		"SkAS"
+	],
+	"98": [
+		"Increases War Cry Damage by x%",
+		"Skill: War Cry",
+		"SKILLDMG+1",
+		"SkWC"
+	],
+	"99": [
+		"Increases Wrath of the Berserker Damage by x%",
+		"Skill: Wrath of the Berserker",
+		"SKILLDMG+1",
+		"SkWotB"
+	],
+	"100": [
+		"Increases Avalanche Damage by x%",
+		"Skill: Avalanche",
+		"SKILLDMG+1",
+		"SkAva"
+	],
+	"101": [
+		"Increases Punish Damage by x%",
+		"Skill: Punish",
+		"SKILLDMG+1",
+		"SkPun"
+	],
+	"102": [
+		"Increases Shield Bash Damage by x%",
+		"Skill: Shield Bash",
+		"SKILLDMG+1",
+		"SkShB"
+	],
+	"103": [
+		"Increases Slash Damage by x%",
+		"Skill: Slash",
+		"SKILLDMG+1",
+		"SkSlh"
+	],
+	"104": [
+		"Increases Shield Glare Damage by x%",
+		"Skill: Shield Glare",
+		"SKILLDMG+1",
+		"SkSG"
+	],
+	"105": [
+		"Increases Sweep Attack Damage by x%",
+		"Skill: Sweep Attack",
+		"SKILLDMG+1",
+		"SkSwA"
+	],
+	"106": [
+		"Increases Iron Skin Damage by x%",
+		"Skill: Iron Skin",
+		"SKILLDMG+1",
+		"SkIrS"
+	],
+	"107": [
+		"Increases Provoke Damage by x%",
+		"Skill: Provoke",
+		"SKILLDMG+1",
+		"SKPrv"
+	],
+	"108": [
+		"Increases Smite Damage by x%",
+		"Skill: Smite",
+		"SKILLDMG+1",
+		"SkSmt"
+	],
+	"109": [
+		"Increases Blessed Hammer Damage by x%",
+		"Skill: Blessed Hammer",
+		"SKILLDMG+1",
+		"SkBHa"
+	],
+	"110": [
+		"Increases Justice Damage by x%",
+		"Skill: Justice",
+		"SKILLDMG+1",
+		"SkJus"
+	],
+	"111": [
+		"Increases Steed Charge Damage by x%",
+		"Skill: Steed Charge",
+		"SKILLDMG+1",
+		"SkSC"
+	],
+	"112": [
+		"Increases Laws of Valor Damage by x%",
+		"Skill: Laws of Valor",
+		"SKILLDMG+1",
+		"SkLoV"
+	],
+	"113": [
+		"Increases Consecration Damage by x%",
+		"Skill: Consecration",
+		"SKILLDMG+1",
+		"SkCon"
+	],
+	"114": [
+		"Increases Laws of Justice Damage by x%",
+		"Skill: Laws of Justice",
+		"SKILLDMG+1",
+		"SkLoJ"
+	],
+	"115": [
+		"Increases Falling Sword Damage by x%",
+		"Skill: Falling Sword",
+		"SKILLDMG+1",
+		"SkFS"
+	],
+	"116": [
+		"Increases Blessed Shield Damage by x%",
+		"Skill: Blessed Shield",
+		"SKILLDMG+1",
+		"SkBS"
+	],
+	"117": [
+		"Increases Condemn Damage by x%",
+		"Skill: Condemn",
+		"SKILLDMG+1",
+		"SkCnd"
+	],
+	"118": [
+		"Increases Judgment Damage by x%",
+		"Skill: Judgment",
+		"SKILLDMG+1",
+		"SkJdg"
+	],
+	"119": [
+		"Increases Laws of Hope Damage by x%",
+		"Skill: Laws of Hope",
+		"SKILLDMG+1",
+		"SkLoH"
+	],
+	"120": [
+		"Increases Akarat's Champion Damage by x%",
+		"Skill: Akarat's Champion",
+		"SKILLDMG+1",
+		"SkAka"
+	],
+	"121": [
+		"Increases Fist of the Heavens Damage by x%",
+		"Skill: Fist of the Heavens",
+		"SKILLDMG+1",
+		"SkFotH"
+	],
+	"122": [
+		"Increases Phalanx Damage by x%",
+		"Skill: Phalanx",
+		"SKILLDMG+1",
+		"SkPha"
+	],
+	"123": [
+		"Increases Heaven's Fury Damage by x%",
+		"Skill: Heaven's Fury",
+		"SKILLDMG+1",
+		"SkHF"
+	],
+	"124": [
+		"Increases Bombardment Damage by x%",
+		"Skill: Bombardment",
+		"SKILLDMG+1",
+		"SkBmb"
+	],
+	"125": [
+		"Increases Hungering Arrow Damage by x%",
+		"Skill: Hungering Arrow",
+		"SKILLDMG+1",
+		"SkHA"
+	],
+	"126": [
+		"Increases Impale Damage by x%",
+		"Skill: Impale",
+		"SKILLDMG+1",
+		"SkImp"
+	],
+	"127": [
+		"Increases Entangling Shot Damage by x%",
+		"Skill: Entangling Shot",
+		"SKILLDMG+1",
+		"SkES"
+	],
+	"128": [
+		"Increases Caltrops Damage by x%",
+		"Skill: Caltrops",
+		"SKILLDMG+1",
+		"SkCal"
+	],
+	"129": [
+		"Increases Rapid Fire Damage by x%",
+		"Skill: Rapid Fire",
+		"SKILLDMG+1",
+		"SkRF"
+	],
+	"130": [
+		"Increases Smoke Screen Damage by x%",
+		"Skill: Smoke Screen",
+		"SKILLDMG+1",
+		"SkSmS"
+	],
+	"131": [
+		"Increases Vault Damage by x%",
+		"Skill: Vault",
+		"SKILLDMG+1",
+		"SkVlt"
+	],
+	"132": [
+		"Increases Bolas Damage by x%",
+		"Skill: Bolas",
+		"SKILLDMG+1",
+		"SkBol"
+	],
+	"133": [
+		"Increases Chakram Damage by x%",
+		"Skill: Chakram",
+		"SKILLDMG+1",
+		"SkCha"
+	],
+	"134": [
+		"Increases Preparation Damage by x%",
+		"Skill: Preparation",
+		"SKILLDMG+1",
+		"SkPrp"
+	],
+	"135": [
+		"Increases Fan of Knives Damage by x%",
+		"Skill: Fan of Knives",
+		"SKILLDMG+1",
+		"SkFoK"
+	],
+	"136": [
+		"Increases Evasive Fire Damage by x%",
+		"Skill: Evasive Fire",
+		"SKILLDMG+1",
+		"SkEF"
+	],
+	"137": [
+		"Increases Grenade Damage by x%",
+		"Skill: Grenade",
+		"SKILLDMG+1",
+		"SkGrn"
+	],
+	"138": [
+		"Increases Shadow Power Damage by x%",
+		"Skill: Shadow Power",
+		"SKILLDMG+1",
+		"SkSPo"
+	],
+	"139": [
+		"Increases Spike Trap Damage by x%",
+		"Skill: Spike Trap",
+		"SKILLDMG+1",
+		"SkSpT"
+	],
+	"140": [
+		"Increases Companion Damage by x%",
+		"Skill: Companion",
+		"SKILLDMG+1",
+		"SkCom"
+	],
+	"141": [
+		"Increases Strafe Damage by x%",
+		"Skill: Strafe",
+		"SKILLDMG+1",
+		"SkStr"
+	],
+	"142": [
+		"Increases Elemental Arrow Damage by x%",
+		"Skill: Elemental Arrow",
+		"SKILLDMG+1",
+		"SkElA"
+	],
+	"143": [
+		"Increases Marked for Death Damage by x%",
+		"Skill: Marked for Death",
+		"SKILLDMG+1",
+		"SkMfD"
+	],
+	"144": [
+		"Increases Multishot Damage by x%",
+		"Skill: Multishot",
+		"SKILLDMG+1",
+		"SkMls"
+	],
+	"145": [
+		"Increases Sentry Damage by x%",
+		"Skill: Sentry",
+		"SKILLDMG+1",
+		"SkSen"
+	],
+	"146": [
+		"Increases Cluster Arrow Damage by x%",
+		"Skill: Cluster Arrow",
+		"SKILLDMG+1",
+		"SkCA"
+	],
+	"147": [
+		"Increases Rain of Vengeance Damage by x%",
+		"Skill: Rain of Vengeance",
+		"SKILLDMG+1",
+		"SkRoV"
+	],
+	"148": [
+		"Increases Vengeance Damage by x%",
+		"Skill: Vengeance",
+		"SKILLDMG+1",
+		"SkVen"
+	],
+	"149": [
+		"Increases Fists of Thunder Damage by x%",
+		"Skill: Fists of Thunder",
+		"SKILLDMG+1",
+		"SkFoT"
+	],
+	"150": [
+		"Increases Lashing Tail Kick Damage by x%",
+		"Skill: Lashing Tail Kick",
+		"SKILLDMG+1",
+		"SkLTK"
+	],
+	"151": [
+		"Increases Deadly Reach Damage by x%",
+		"Skill: Deadly Reach",
+		"SKILLDMG+1",
+		"SkDR"
+	],
+	"152": [
+		"Increases Blinding Flash Damage by x%",
+		"Skill: Blinding Flash",
+		"SKILLDMG+1",
+		"SkBF"
+	],
+	"153": [
+		"Increases Tempest Rush Damage by x%",
+		"Skill: Tempest Rush",
+		"SKILLDMG+1",
+		"SkTR"
+	],
+	"154": [
+		"Increases Breath of Heaven Damage by x%",
+		"Skill: Breath of Heaven",
+		"SKILLDMG+1",
+		"SkBoH"
+	],
+	"155": [
+		"Increases Dashing Strike Damage by x%",
+		"Skill: Dashing Strike",
+		"SKILLDMG+1",
+		"SkDaS"
+	],
+	"156": [
+		"Increases Crippling Wave Damage by x%",
+		"Skill: Crippling Wave",
+		"SKILLDMG+1",
+		"SkCW"
+	],
+	"157": [
+		"Increases Wave of Light Damage by x%",
+		"Skill: Wave of Light",
+		"SKILLDMG+1",
+		"SkWoL"
+	],
+	"158": [
+		"Increases Exploding Palm Damage by x%",
+		"Skill: Exploding Palm",
+		"SKILLDMG+1",
+		"SkEP"
+	],
+	"159": [
+		"Increases Cyclone Strike Damage by x%",
+		"Skill: Cyclone Strike",
+		"SKILLDMG+1",
+		"SkCyS"
+	],
+	"160": [
+		"Increases Way of the Hundred Fists Damage by x%",
+		"Skill: Way of the Hundred Fists",
+		"SKILLDMG+1",
+		"SkWotH"
+	],
+	"161": [
+		"Increases Serenity Damage by x%",
+		"Skill: Serenity",
+		"SKILLDMG+1",
+		"SkSer"
+	],
+	"162": [
+		"Increases Seven-Sided Strike Damage by x%",
+		"Skill: Seven-Sided Strike",
+		"SKILLDMG+1",
+		"SkSSS"
+	],
+	"163": [
+		"Increases Mantra of Salvation Damage by x%",
+		"Skill: Mantra of Salvation",
+		"SKILLDMG+1",
+		"SkMoS"
+	],
+	"164": [
+		"Increases Sweeping Wind Damage by x%",
+		"Skill: Sweeping Wind",
+		"SKILLDMG+1",
+		"SkSWi"
+	],
+	"165": [
+		"Increases Mantra of Retribution Damage by x%",
+		"Skill: Mantra of Retribution",
+		"SKILLDMG+1",
+		"SkMoR"
+	],
+	"166": [
+		"Increases Inner Sanctuary Damage by x%",
+		"Skill: Inner Sanctuary",
+		"SKILLDMG+1",
+		"SkInS"
+	],
+	"167": [
+		"Increases Mystic Ally Damage by x%",
+		"Skill: Mystic Ally",
+		"SKILLDMG+1",
+		"SkMA"
+	],
+	"168": [
+		"Increases Mantra of Healing Damage by x%",
+		"Skill: Mantra of Healing",
+		"SKILLDMG+1",
+		"SkMoH"
+	],
+	"169": [
+		"Increases Mantra of Conviction Damage by x%",
+		"Skill: Mantra of Conviction",
+		"SKILLDMG+1",
+		"SkMoC"
+	],
+	"170": [
+		"Increases Epiphany Damage by x%",
+		"Skill: Epiphany",
+		"SKILLDMG+1",
+		"SkEpi"
+	],
+	"171": [
+		"Increases Poison Dart Damage by x%",
+		"Skill: Poison Dart",
+		"SKILLDMG+1",
+		"SkPD"
+	],
+	"172": [
+		"Increases Grasp of the Dead Damage by x%",
+		"Skill: Grasp of the Dead",
+		"SKILLDMG+1",
+		"SkGotD"
+	],
+	"173": [
+		"Increases Corpse Spiders Damage by x%",
+		"Skill: Corpse Spiders",
+		"SKILLDMG+1",
+		"SkCpS"
+	],
+	"174": [
+		"Increases Summon Zombie Dogs Damage by x%",
+		"Skill: Summon Zombie Dogs",
+		"SKILLDMG+1",
+		"SkSZD"
+	],
+	"175": [
+		"Increases Firebats Damage by x%",
+		"Skill: Firebats",
+		"SKILLDMG+1",
+		"SkFb"
+	],
+	"176": [
+		"Increases Horrify Damage by x%",
+		"Skill: Horrify",
+		"SKILLDMG+1",
+		"SkHor"
+	],
+	"177": [
+		"Increases Soul Harvest Damage by x%",
+		"Skill: Soul Harvest",
+		"SKILLDMG+1",
+		"SkSH"
+	],
+	"178": [
+		"Increases Plague of Toads Damage by x%",
+		"Skill: Plague of Toads",
+		"SKILLDMG+1",
+		"SkPoT"
+	],
+	"179": [
+		"Increases Haunt Damage by x%",
+		"Skill: Haunt",
+		"SKILLDMG+1",
+		"SkHnt"
+	],
+	"180": [
+		"Increases Sacrifice Damage by x%",
+		"Skill: Sacrifice",
+		"SKILLDMG+1",
+		"SkSac"
+	],
+	"181": [
+		"Increases Zombie Charger Damage by x%",
+		"Skill: Zombie Charger",
+		"SKILLDMG+1",
+		"SkZC"
+	],
+	"182": [
+		"Increases Spirit Walk Damage by x%",
+		"Skill: Spirit Walk",
+		"SKILLDMG+1",
+		"SkSpW"
+	],
+	"183": [
+		"Increases Spirit Barrage Damage by x%",
+		"Skill: Spirit Barrage",
+		"SKILLDMG+1",
+		"SkSpB"
+	],
+	"184": [
+		"Increases Gargantuam Damage by x%",
+		"Skill: Gargantuam",
+		"SKILLDMG+1",
+		"SkGar"
+	],
+	"185": [
+		"Increases Locust Swarm Damage by x%",
+		"Skill: Locust Swarm",
+		"SKILLDMG+1",
+		"SkLS"
+	],
+	"186": [
+		"Increases Firebomb Damage by x%",
+		"Skill: Firebomb",
+		"SKILLDMG+1",
+		"SkFrb"
+	],
+	"187": [
+		"Increases Hex Damage by x%",
+		"Skill: Hex",
+		"SKILLDMG+1",
+		"SkHex"
+	],
+	"188": [
+		"Increases Acid Cloud Damage by x%",
+		"Skill: Acid Cloud",
+		"SKILLDMG+1",
+		"SkAC"
+	],
+	"189": [
+		"Increases Mass Confusion Damage by x%",
+		"Skill: Mass Confusion",
+		"SKILLDMG+1",
+		"SkMC"
+	],
+	"190": [
+		"Increases Big Bag Voodoo Damage by x%",
+		"Skill: Big Bag Voodoo",
+		"SKILLDMG+1",
+		"SkBBV"
+	],
+	"191": [
+		"Increases Wall of Death Damage by x%",
+		"Skill: Wall of Death",
+		"SKILLDMG+1",
+		"SkWoD"
+	],
+	"192": [
+		"Increases Fetish Army Damage by x%",
+		"Skill: Fetish Army",
+		"SKILLDMG+1",
+		"SkFA"
+	],
+	"193": [
+		"Increases Piranhas Damage by x%",
+		"Skill: Piranhas",
+		"SKILLDMG+1",
+		"SkPir"
+	],
+	"194": [
+		"Increases Magic Missile Damage by x%",
+		"Skill: Magic Missile",
+		"SKILLDMG+1",
+		"SkMM"
+	],
+	"195": [
+		"Increases Ray of Frost Damage by x%",
+		"Skill: Ray of Frost",
+		"SKILLDMG+1",
+		"SkRoF"
+	],
+	"196": [
+		"Increases Shock Pulse Damage by x%",
+		"Skill: Shock Pulse",
+		"SKILLDMG+1",
+		"SkShP"
+	],
+	"197": [
+		"Increases Frost Nova Damage by x%",
+		"Skill: Frost Nova",
+		"SKILLDMG+1",
+		"SkFN"
+	],
+	"198": [
+		"Increases Arcane Orb Damage by x%",
+		"Skill: Arcane Orb",
+		"SKILLDMG+1",
+		"SkAO"
+	],
+	"199": [
+		"Increases Diamond Skin Damage by x%",
+		"Skill: Diamond Skin",
+		"SKILLDMG+1",
+		"SkDSk"
+	],
+	"200": [
+		"Increases Wave of Force Damage by x%",
+		"Skill: Wave of Force",
+		"SKILLDMG+1",
+		"SkWoF"
+	],
+	"201": [
+		"Increases Spectral Blade Damage by x%",
+		"Skill: Spectral Blade",
+		"SKILLDMG+1",
+		"SkSBl"
+	],
+	"202": [
+		"Increases Arcane Torrent Damage by x%",
+		"Skill: Arcane Torrent",
+		"SKILLDMG+1",
+		"SkAT"
+	],
+	"203": [
+		"Increases Energy Twister Damage by x%",
+		"Skill: Energy Twister",
+		"SKILLDMG+1",
+		"SkET"
+	],
+	"204": [
+		"Increases Ice Armor Damage by x%",
+		"Skill: Ice Armor",
+		"SKILLDMG+1",
+		"SkIA"
+	],
+	"205": [
+		"Increases Electrocute Damage by x%",
+		"Skill: Electrocute",
+		"SKILLDMG+1",
+		"SkEle"
+	],
+	"206": [
+		"Increases Slow Time Damage by x%",
+		"Skill: Slow Time",
+		"SKILLDMG+1",
+		"SkSlT"
+	],
+	"207": [
+		"Increases Storm Armor Damage by x%",
+		"Skill: Storm Armor",
+		"SKILLDMG+1",
+		"SkStA"
+	],
+	"208": [
+		"Increases Explosive Blast Damage by x%",
+		"Skill: Explosive Blast",
+		"SKILLDMG+1",
+		"SkEB"
+	],
+	"209": [
+		"Increases Magic Weapon Damage by x%",
+		"Skill: Magic Weapon",
+		"SKILLDMG+1",
+		"SkMW"
+	],
+	"210": [
+		"Increases Hydra Damage by x%",
+		"Skill: Hydra",
+		"SKILLDMG+1",
+		"SkHyd"
+	],
+	"211": [
+		"Increases Disintegrate Damage by x%",
+		"Skill: Disintegrate",
+		"SKILLDMG+1",
+		"SkDis"
+	],
+	"212": [
+		"Increases Familiar Damage by x%",
+		"Skill: Familiar",
+		"SKILLDMG+1",
+		"SkFam"
+	],
+	"213": [
+		"Increases Teleport Damage by x%",
+		"Skill: Teleport",
+		"SKILLDMG+1",
+		"SkTel"
+	],
+	"214": [
+		"Increases Mirror Image Damage by x%",
+		"Skill: Mirror Image",
+		"SKILLDMG+1",
+		"SkMI"
+	],
+	"215": [
+		"Increases Meteor Damage by x%",
+		"Skill: Meteor",
+		"SKILLDMG+1",
+		"SkMet"
+	],
+	"216": [
+		"Increases Blizzard Damage by x%",
+		"Skill: Blizzard",
+		"SKILLDMG+1",
+		"SkBlz"
+	],
+	"217": [
+		"Increases Energy Armor Damage by x%",
+		"Skill: Energy Armor",
+		"SKILLDMG+1",
+		"SkEnA"
+	],
+	"218": [
+		"Increases Archon Damage by x%",
+		"Skill: Archon",
+		"SKILLDMG+1",
+		"SkArc"
+	],
+	"219": [
+		"Increases Black Hole Damage by x%",
+		"Skill: Black Hole",
+		"SKILLDMG+1",
+		"SkBlH"
+	]
+}
