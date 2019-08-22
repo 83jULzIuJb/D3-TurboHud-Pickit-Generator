@@ -926,5 +926,9 @@
   "232": [
     "Skill: Siphon Blood", 
     "SKILLDMG+1"
+  ],
+  "233": [
+    "Damage range",
+    "DPS+1"
   ]
 }
